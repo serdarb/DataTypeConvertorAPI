@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DataTypeConvertorAPI.Test
+namespace DataTypeConvertorAPI.Business.Processors
 {
     internal class CsvToCsvProcessor : BaseProcessor
     {

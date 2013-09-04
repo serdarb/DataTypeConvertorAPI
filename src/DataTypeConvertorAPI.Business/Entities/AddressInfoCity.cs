@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace DataTypeConvertorAPI.Test
+namespace DataTypeConvertorAPI.Business.Entities
 {
     [Serializable]
     public class AddressInfoCity

@@ -1,4 +1,4 @@
-﻿namespace DataTypeConvertorAPI.Test
+﻿namespace DataTypeConvertorAPI.Business.Processors
 {
     public interface IProcessor
     {

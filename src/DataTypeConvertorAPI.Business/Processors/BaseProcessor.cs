@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
+using DataTypeConvertorAPI.Business.Entities;
+using DataTypeConvertorAPI.Business.Helpers;
 
-namespace DataTypeConvertorAPI.Test
+namespace DataTypeConvertorAPI.Business.Processors
 {
     public abstract class BaseProcessor : IProcessor
     {

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-16"?>
+<AddressInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <City name="Antalya" code="07">
+    <District name="Akseki">
+      <Zip code="07630" />
+      <Zip code="07650" />
+    </District>
+    <District name="Aksu">
+      <Zip code="07110" />
+    </District>
+    <District name="Alanya">
+      <Zip code="07400" />
+      <Zip code="07407" />
+      <Zip code="07410" />
+      <Zip code="07415" />
+      <Zip code="07425" />
+      <Zip code="07430" />
+      <Zip code="07440" />
+      <Zip code="07450" />
+      <Zip code="07460" />
+      <Zip code="07469" />
+      <Zip code="07470" />
+      <Zip code="07475" />
+      <Zip code="07490" />
+    </District>
+    <District name="Demre">
+      <Zip code="07570" />
+    </District>
+    <District name="Döşemealtı">
+      <Zip code="07120" />
+      <Zip code="07150" />
+      <Zip code="07190" />
+    </District>
+    <District name="Elmalı">
+      <Zip code="07700" />
+      <Zip code="07715" />
+      <Zip code="07770" />
+    </District>
+    <District name="Finike">
+      <Zip code="07740" />
+      <Zip code="07750" />
+      <Zip code="07880" />
+      <Zip code="07930" />
+      <Zip code="07940" />
+    </District>
+    <District name="Gazipaşa">
+      <Zip code="07900" />
+      <Zip code="07915" />
+    </District>
+    <District name="Gündoğmuş">
+      <Zip code="07860" />
+    </District>
+    <District name="İbradı">
+      <Zip code="07680" />
+      <Zip code="07690" />
+    </District>
+    <District name="Kaş">
+      <Zip code="07580" />
+      <Zip code="07780" />
+      <Zip code="07960" />
+      <Zip code="07965" />
+      <Zip code="07970" />
+      <Zip code="07974" />
+      <Zip code="07975" />
+    </District>
+    <District name="Kemer">
+      <Zip code="07980" />
+      <Zip code="07990" />
+      <Zip code="07994" />
+      <Zip code="07995" />
+    </District>
+    <District name="Kepez">
+      <Zip code="07020" />
+      <Zip code="07060" />
+      <Zip code="07080" />
+      <Zip code="07090" />
+      <Zip code="07170" />
+      <Zip code="07210" />
+      <Zip code="07220" />
+      <Zip code="07260" />
+      <Zip code="07320" />
+    </District>
+    <District name="Konyaaltı">
+      <Zip code="07070" />
+      <Zip code="07130" />
+      <Zip code="07140" />
+    </District>
+    <District name="Korkuteli">
+      <Zip code="07800" />
+      <Zip code="07810" />
+      <Zip code="07830" />
+      <Zip code="07840" />
+    </District>
+    <District name="Kumluca">
+      <Zip code="07350" />
+      <Zip code="07365" />
+      <Zip code="07370" />
+      <Zip code="07390" />
+    </District>
+    <District name="Manavgat">
+      <Zip code="07330" />
+      <Zip code="07550" />
+      <Zip code="07600" />
+    </District>
+    <District name="Muratpaşa">
+      <Zip code="07010" />
+      <Zip code="07030" />
+      <Zip code="07040" />
+      <Zip code="07050" />
+      <Zip code="07100" />
+      <Zip code="07160" />
+      <Zip code="07200" />
+      <Zip code="07230" />
+      <Zip code="07300" />
+    </District>
+    <District name="Serik">
+      <Zip code="07500" />
+      <Zip code="07505" />
+      <Zip code="07510" />
+      <Zip code="07520" />
+      <Zip code="07525" />
+      <Zip code="07540" />
+      <Zip code="07552" />
+    </District>
+  </City>
+</AddressInfo>

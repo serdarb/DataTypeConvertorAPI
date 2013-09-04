@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Xml.Serialization;
 
-namespace DataTypeConvertorAPI.Test
+namespace DataTypeConvertorAPI.Business.Helpers
 {
     public static class SerializationHelper
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml.Serialization;
 
-namespace DataTypeConvertorAPI.Test
+namespace DataTypeConvertorAPI.Business.Entities
 {
     [Serializable]
     public class AddressInfoCityDistrictZip

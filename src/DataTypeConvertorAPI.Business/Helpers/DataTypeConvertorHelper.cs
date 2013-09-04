@@ -1,7 +1,8 @@
 ﻿using System;
 using System.IO;
+using DataTypeConvertorAPI.Business.Processors;
 
-namespace DataTypeConvertorAPI.Test
+namespace DataTypeConvertorAPI.Business.Helpers
 {
     public class DataTypeConvertorHelper
     {

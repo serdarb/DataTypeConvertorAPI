@@ -4,15 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D352BEF3-9933-4149-AE21-27A9E5C52B51}</ProjectGuid>
+    <ProjectGuid>{EB46D35A-F1FC-48C1-BF54-E4373CF2C63F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DataTypeConvertorAPI.Test</RootNamespace>
-    <AssemblyName>DataTypeConvertorAPI.Test</AssemblyName>
+    <RootNamespace>DataTypeConvertorAPI.Business</RootNamespace>
+    <AssemblyName>DataTypeConvertorAPI.Business</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
-    <RestorePackages>true</RestorePackages>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -32,14 +30,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Moq">
-      <HintPath>..\..\packages\Moq.4.1.1308.2321\lib\net40\Moq.dll</HintPath>
-    </Reference>
-    <Reference Include="nunit.framework">
-      <HintPath>..\..\packages\NUnit.2.6.2\lib\nunit.framework.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
-    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -48,29 +39,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataTypeConvertorServiceTests.cs" />
+    <Compile Include="Entities\AddressInfo.cs" />
+    <Compile Include="Entities\AddressInfoCity.cs" />
+    <Compile Include="Entities\AddressInfoCityDistrict.cs" />
+    <Compile Include="Entities\AddressInfoCityDistrictZip.cs" />
+    <Compile Include="Helpers\DataTypeConvertorHelper.cs" />
+    <Compile Include="Helpers\SerializationHelper.cs" />
+    <Compile Include="Processors\BaseProcessor.cs" />
+    <Compile Include="Processors\CsvToCsvProcessor.cs" />
+    <Compile Include="Processors\CsvToXmlProcessor.cs" />
+    <Compile Include="Processors\IProcessor.cs" />
+    <Compile Include="Processors\XmlToCsvProcessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-    <None Include="Files\sample_data.csv" />
-    <None Include="Files\schema.csv" />
-    <None Include="Files\schema.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Files\sample_data.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DataTypeConvertorAPI.Business\DataTypeConvertorAPI.Business.csproj">
-      <Project>{eb46d35a-f1fc-48c1-bf54-e4373cf2c63f}</Project>
-      <Name>DataTypeConvertorAPI.Business</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">

@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 using System.IO;
-using Moq;
+using DataTypeConvertorAPI.Business.Helpers;
 using NUnit.Framework;
 
 namespace DataTypeConvertorAPI.Test
