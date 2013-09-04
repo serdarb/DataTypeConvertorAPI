@@ -49,17 +49,48 @@ namespace DataTypeConvertorAPI.Test
         public bool Process(string path, string exportPath, string filter)
         {
             var content = File.ReadAllLines(path);
+            var length = content.Length;
 
-            var list = new List<AddressInfo>();
-            foreach (var line in content)
+            var addressInfo = new AddressInfo();
+            for (var i = 1; i < length; i++)
             {
-                list.Add(new AddressInfo
-                {
-                    
-                });
-                
+                var lineItems = content[i].Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
+                var cityName = lineItems[0];
+                var cityCode = lineItems[1];
+                var districtName = lineItems[2];
+                var zipCode = lineItems[3];
+
+
             }
 
+
+
+
+            return false;
         }
+    }
+
+
+    class AddressInfo
+    {
+        public List<AddressInfoCity> City { get; set; }
+    }
+
+    class AddressInfoCity
+    {
+        public string Name { get; set; }
+        public string Code { get; set; }
+        public List<AddressInfoCityDistrict> District { get; set; }
+    }
+
+    class AddressInfoCityDistrict
+    {
+        public string Name { get; set; }
+        public List<AddressInfoCityDistrictZip> Zip { get; set; }
+    }
+
+    class AddressInfoCityDistrictZip
+    {
+        public string Code { get; set; }
     }
 }
