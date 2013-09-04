@@ -48,7 +48,7 @@ namespace DataTypeConvertorAPI.Test
     {
         public bool Process(string path, string exportPath, string filter)
         {
-            var content = File.ReadAllLines(path);
+            var content = File.ReadAllLines(path).ToList().OrderBy(line => line).ToArray();
             var length = content.Length;
 
             var addressInfo = new AddressInfo();
@@ -60,7 +60,33 @@ namespace DataTypeConvertorAPI.Test
                 var districtName = lineItems[2];
                 var zipCode = lineItems[3];
 
+                if (addressInfo.City.Exists(x => x.Name == cityName))
+                {
+                    var districts = addressInfo.City.First(x => x.Name == cityName).District;
+                    if (districts.Exists(x => x.Name == districtName))
+                    {
+                        var zips = districts.First(x => x.Name == districtName).Zip;
+                        if (!zips.Exists(x => x.Code == zipCode))
+                        {
+                            zips.Add(new AddressInfoCityDistrictZip { Code = zipCode });
+                        }
+                    }
+                    else
+                    {
+                        var aicd = new AddressInfoCityDistrict { Name = districtName };
+                        aicd.Zip.Add(new AddressInfoCityDistrictZip { Code = zipCode });
+                        districts.Add(aicd);
+                    }
+                }
+                else
+                {
+                    var aic = new AddressInfoCity { Name = cityName, Code = cityCode };
+                    var aicd = new AddressInfoCityDistrict { Name = districtName };
+                    aicd.Zip.Add(new AddressInfoCityDistrictZip { Code = zipCode });
 
+                    aic.District.Add(aicd);
+                    addressInfo.City.Add(aic);
+                }
             }
 
 
@@ -73,11 +99,21 @@ namespace DataTypeConvertorAPI.Test
 
     class AddressInfo
     {
+        public AddressInfo()
+        {
+            City = new List<AddressInfoCity>();
+        }
+
         public List<AddressInfoCity> City { get; set; }
     }
 
     class AddressInfoCity
     {
+        public AddressInfoCity()
+        {
+            District = new List<AddressInfoCityDistrict>();
+        }
+
         public string Name { get; set; }
         public string Code { get; set; }
         public List<AddressInfoCityDistrict> District { get; set; }
@@ -85,6 +121,11 @@ namespace DataTypeConvertorAPI.Test
 
     class AddressInfoCityDistrict
     {
+        public AddressInfoCityDistrict()
+        {
+            Zip = new List<AddressInfoCityDistrictZip>();
+        }
+
         public string Name { get; set; }
         public List<AddressInfoCityDistrictZip> Zip { get; set; }
     }
