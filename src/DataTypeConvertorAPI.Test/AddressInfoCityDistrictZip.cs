@@ -6,7 +6,7 @@ namespace DataTypeConvertorAPI.Test
     [Serializable]
     public class AddressInfoCityDistrictZip
     {
-        [XmlAttribute]
+        [XmlAttribute(AttributeName = "code")]
         public string Code { get; set; }
     }
 }

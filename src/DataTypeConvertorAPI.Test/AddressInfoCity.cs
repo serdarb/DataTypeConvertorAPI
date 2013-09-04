@@ -12,9 +12,9 @@ namespace DataTypeConvertorAPI.Test
             District = new List<AddressInfoCityDistrict>();
         }
 
-        [XmlAttribute]
+        [XmlAttribute(AttributeName = "name")]
         public string Name { get; set; }
-        [XmlAttribute]
+        [XmlAttribute(AttributeName = "code")]
         public string Code { get; set; }
         [XmlElement]
         public List<AddressInfoCityDistrict> District { get; set; }

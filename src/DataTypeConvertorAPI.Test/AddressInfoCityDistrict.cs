@@ -12,7 +12,7 @@ namespace DataTypeConvertorAPI.Test
             Zip = new List<AddressInfoCityDistrictZip>();
         }
 
-        [XmlAttribute]
+        [XmlAttribute(AttributeName = "name")]
         public string Name { get; set; }
         [XmlElement]
         public List<AddressInfoCityDistrictZip> Zip { get; set; }

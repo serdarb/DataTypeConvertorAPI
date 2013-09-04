@@ -1,35 +1,30 @@
-﻿using System;
-using System.Configuration;
-using System.Globalization;
+﻿using System.Configuration;
 using System.IO;
-using System.Linq;
 using NUnit.Framework;
 
 namespace DataTypeConvertorAPI.Test
 {
-
-    /* 
-     * 
-     *  Test case #1:
-     *      Generate XML output from CSV input,
-     *      filtered by City name = ’Antalya’
-     *  
-     */
-
     [TestFixture]
     public class DataTypeConvertorHelperTests
     {
+        private DataTypeConvertorHelper helper;
         private string TestFilesPath;
         private string CsvPath;
+        private string XmlPath;
         private string ExportXmlPath;
+        private string ExportCsvPath;
 
         [SetUp]
         public void Setup()
         {
+            helper = new DataTypeConvertorHelper();
+
             TestFilesPath = ConfigurationManager.AppSettings["TestFiles"];
 
             CsvPath = string.Format("{0}\\sample_data.csv", TestFilesPath);
+            XmlPath = string.Format("{0}\\sample_data.xml", TestFilesPath);
             ExportXmlPath = string.Format("{0}\\sample_data_export.xml", TestFilesPath);
+            ExportCsvPath = string.Format("{0}\\sample_data_export.csv", TestFilesPath);
 
             if (File.Exists(ExportXmlPath))
             {
@@ -40,26 +35,14 @@ namespace DataTypeConvertorAPI.Test
         [Test]
         public void should_generate_xml_from_csv()
         {
-            var helper = new DataTypeConvertorHelper();
-
-            var path = string.Format("{0}\\sample_data.csv", TestFilesPath);
-            var exportpath = string.Format("{0}\\sample_data_export.xml", TestFilesPath);
-
-            Assert.IsTrue(helper.Process(path, exportpath, string.Empty));
-            Assert.IsTrue(File.Exists(exportpath));
+            Assert.IsTrue(helper.Process(CsvPath, ExportXmlPath));
+            Assert.IsTrue(File.Exists(ExportXmlPath));
         }
 
         [Test]
         public void should_generate_xml_from_csv_and_filter_city(
             [Values("Ankara", "Antalya")] string cityFilter)
         {
-            var helper = new DataTypeConvertorHelper();
-
-            if (File.Exists(ExportXmlPath))
-            {
-                File.Delete(ExportXmlPath);
-            }
-
             Assert.IsTrue(helper.Process(CsvPath, ExportXmlPath, cityFilter));
             Assert.IsTrue(File.Exists(ExportXmlPath));
 
@@ -69,97 +52,49 @@ namespace DataTypeConvertorAPI.Test
             var anotherCityCode = ",34,";
             Assert.IsFalse(content.Contains(anotherCityCode));
         }
-    }
 
-    public class DataTypeConvertorHelper
-    {
-        public bool Process(string path, string exportPath, string filter)
+        [Test]
+        public void should_generate_csv_from_csv()
         {
-            if (string.IsNullOrEmpty(path) ||
-                string.IsNullOrEmpty(exportPath))
-            {
-                return false;
-            }
-
-            if (!File.Exists(path))
-            {
-                return false;
-            }
-
-            var addressInfo = FillAddressInfoFromCSV(path, filter);
-
-            return GenerateXMLFromAddressInfo(addressInfo, exportPath);
+            Assert.IsTrue(helper.Process(CsvPath, ExportCsvPath));
+            Assert.IsTrue(File.Exists(ExportCsvPath));
         }
 
-        private bool GenerateXMLFromAddressInfo(AddressInfo addressInfo, string exportPath)
+        [Test]
+        public void should_generate_csv_from_xml()
         {
-            try
-            {
-                var xmlContent = SerializationHelper.Serialize(addressInfo);
-                File.WriteAllText(exportPath, xmlContent);
-                return true;
-            }
-            catch (Exception ex)
-            {
-                //todo: log
-                return false;
-            }
+            Assert.IsTrue(helper.Process(XmlPath, ExportCsvPath));
+            Assert.IsTrue(File.Exists(ExportCsvPath));
         }
 
-        private static AddressInfo FillAddressInfoFromCSV(string path, string filter)
+        [Test]
+        public void should_generate_csv_from_xml_and_filter_city(
+            [Values("Antalya", "Ankara")] string cityFilter)
         {
-            var content = File.ReadAllLines(path).ToList().OrderBy(line => line).ToArray();
-            var length = content.Length;
+            Assert.IsTrue(helper.Process(XmlPath, ExportCsvPath,cityFilter));
+            Assert.IsTrue(File.Exists(ExportCsvPath));
 
-            var addressInfo = new AddressInfo();
-            for (var i = 1; i < length; i++)
-            {
-                var lineItems = content[i].Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
-                var cityName = lineItems[0];
-                var cityCode = lineItems[1];
-                var districtName = lineItems[2];
-                var zipCode = lineItems[3];
+            var content = File.ReadAllText(ExportCsvPath);
+            Assert.IsTrue(content.Contains(cityFilter));
 
-                if (!string.IsNullOrEmpty(filter))
-                {
-                    var loweredFilter = filter.ToLower(new CultureInfo("tr-TR"));
-                    var loweredCityName = cityName.ToLower(new CultureInfo("tr-TR"));
-                    if (loweredCityName != loweredFilter)
-                    {
-                        continue;
-                    }
-                }
+            var anotherCityCode = ",34,";
+            Assert.IsFalse(content.Contains(anotherCityCode));
+        }
 
-                if (addressInfo.City.Exists(x => x.Name == cityName))
-                {
-                    var districts = addressInfo.City.First(x => x.Name == cityName).District;
-                    if (districts.Exists(x => x.Name == districtName))
-                    {
-                        var zips = districts.First(x => x.Name == districtName).Zip;
-                        if (!zips.Exists(x => x.Code == zipCode))
-                        {
-                            zips.Add(new AddressInfoCityDistrictZip { Code = zipCode });
-                        }
-                    }
-                    else
-                    {
-                        var aicd = new AddressInfoCityDistrict { Name = districtName };
-                        aicd.Zip.Add(new AddressInfoCityDistrictZip { Code = zipCode });
-                        districts.Add(aicd);
-                    }
-                }
-                else
-                {
-                    var aic = new AddressInfoCity { Name = cityName, Code = cityCode };
-                    var aicd = new AddressInfoCityDistrict { Name = districtName };
-                    aicd.Zip.Add(new AddressInfoCityDistrictZip { Code = zipCode });
+        [Test]
+        public void should_generate_csv_from_xml_and_filter_city_and_sorted_by_zipcode(
+            [Values("Antalya", "Ankara")] string cityFilter)
+        {
+            Assert.IsTrue(helper.Process(XmlPath, ExportCsvPath, cityFilter));
+            Assert.IsTrue(File.Exists(ExportCsvPath));
 
-                    aic.District.Add(aicd);
-                    addressInfo.City.Add(aic);
-                }
-            }
+            var content = File.ReadAllText(ExportCsvPath);
+            Assert.IsTrue(content.Contains(cityFilter));
 
-            return addressInfo;
+            var anotherCityCode = ",34,";
+            Assert.IsFalse(content.Contains(anotherCityCode));
+
+            //sorting test
         }
     }
 }
