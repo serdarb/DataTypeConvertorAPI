@@ -1,0 +1,5313 @@
+<?xml version="1.0" encoding="utf-16"?>
+<AddressInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <City Name="Adana" Code="01">
+    <District Name="Ceyhan">
+      <Zip Code="01920" />
+      <Zip Code="01930" />
+      <Zip Code="01940" />
+      <Zip Code="01950" />
+      <Zip Code="01960" />
+    </District>
+    <District Name="Çukurova">
+      <Zip Code="01170" />
+      <Zip Code="01360" />
+      <Zip Code="01780" />
+    </District>
+    <District Name="Feke">
+      <Zip Code="01660" />
+    </District>
+    <District Name="İmamoğlu">
+      <Zip Code="01700" />
+    </District>
+    <District Name="Karaisalı">
+      <Zip Code="01770" />
+    </District>
+    <District Name="Karataş">
+      <Zip Code="01900" />
+    </District>
+    <District Name="Kozan">
+      <Zip Code="01500" />
+      <Zip Code="01510" />
+      <Zip Code="01530" />
+      <Zip Code="01542" />
+      <Zip Code="01555" />
+    </District>
+    <District Name="Pozantı">
+      <Zip Code="01470" />
+      <Zip Code="01490" />
+    </District>
+    <District Name="Saimbeyli">
+      <Zip Code="01740" />
+    </District>
+    <District Name="Sarıçam">
+      <Zip Code="01250" />
+      <Zip Code="01330" />
+      <Zip Code="01340" />
+      <Zip Code="01400" />
+      <Zip Code="01410" />
+      <Zip Code="01460" />
+      <Zip Code="01790" />
+    </District>
+    <District Name="Seyhan">
+      <Zip Code="01010" />
+      <Zip Code="01020" />
+      <Zip Code="01030" />
+      <Zip Code="01040" />
+      <Zip Code="01050" />
+      <Zip Code="01060" />
+      <Zip Code="01070" />
+      <Zip Code="01080" />
+      <Zip Code="01100" />
+      <Zip Code="01110" />
+      <Zip Code="01120" />
+      <Zip Code="01130" />
+      <Zip Code="01140" />
+      <Zip Code="01150" />
+      <Zip Code="01160" />
+      <Zip Code="01180" />
+      <Zip Code="01190" />
+      <Zip Code="01200" />
+      <Zip Code="01355" />
+      <Zip Code="01365" />
+      <Zip Code="01430" />
+    </District>
+    <District Name="Tufanbeyli">
+      <Zip Code="01640" />
+    </District>
+    <District Name="Yumurtalık">
+      <Zip Code="01680" />
+    </District>
+    <District Name="Yüreğir">
+      <Zip Code="01220" />
+      <Zip Code="01230" />
+      <Zip Code="01240" />
+      <Zip Code="01260" />
+      <Zip Code="01280" />
+      <Zip Code="01290" />
+      <Zip Code="01300" />
+      <Zip Code="01310" />
+      <Zip Code="01350" />
+      <Zip Code="01358" />
+      <Zip Code="01370" />
+      <Zip Code="01375" />
+      <Zip Code="01415" />
+    </District>
+  </City>
+  <City Name="Adıyaman" Code="02">
+    <District Name="Adıyaman">
+      <Zip Code="02000" />
+      <Zip Code="02030" />
+      <Zip Code="02040" />
+      <Zip Code="02100" />
+      <Zip Code="02200" />
+      <Zip Code="02230" />
+      <Zip Code="02240" />
+      <Zip Code="02260" />
+      <Zip Code="02270" />
+      <Zip Code="02280" />
+      <Zip Code="02290" />
+    </District>
+    <District Name="Besni">
+      <Zip Code="02300" />
+      <Zip Code="02320" />
+      <Zip Code="02330" />
+      <Zip Code="02332" />
+      <Zip Code="02336" />
+      <Zip Code="02340" />
+      <Zip Code="02342" />
+      <Zip Code="02346" />
+      <Zip Code="02348" />
+    </District>
+    <District Name="Çelikhan">
+      <Zip Code="02600" />
+      <Zip Code="02610" />
+    </District>
+    <District Name="Gerger">
+      <Zip Code="02700" />
+    </District>
+    <District Name="Gölbaşı">
+      <Zip Code="02500" />
+      <Zip Code="02520" />
+      <Zip Code="02530" />
+      <Zip Code="02540" />
+    </District>
+    <District Name="Kahta">
+      <Zip Code="02400" />
+      <Zip Code="02440" />
+      <Zip Code="02450" />
+    </District>
+    <District Name="Samsat">
+      <Zip Code="02800" />
+    </District>
+    <District Name="Sincik">
+      <Zip Code="02900" />
+      <Zip Code="02920" />
+    </District>
+    <District Name="Tut">
+      <Zip Code="02350" />
+    </District>
+  </City>
+  <City Name="Afyonkarahisar" Code="03">
+    <District Name="Afyon">
+      <Zip Code="03030" />
+      <Zip Code="03040" />
+      <Zip Code="03050" />
+      <Zip Code="03080" />
+      <Zip Code="03100" />
+      <Zip Code="03103" />
+      <Zip Code="03140" />
+      <Zip Code="03150" />
+      <Zip Code="03200" />
+      <Zip Code="03204" />
+      <Zip Code="03210" />
+      <Zip Code="03211" />
+      <Zip Code="03212" />
+      <Zip Code="03213" />
+      <Zip Code="03214" />
+      <Zip Code="03215" />
+      <Zip Code="03216" />
+      <Zip Code="03217" />
+      <Zip Code="03218" />
+    </District>
+    <District Name="Başmakçı">
+      <Zip Code="03450" />
+      <Zip Code="03470" />
+    </District>
+    <District Name="Bayat">
+      <Zip Code="03780" />
+    </District>
+    <District Name="Bolvadin">
+      <Zip Code="03300" />
+      <Zip Code="03320" />
+      <Zip Code="03330" />
+      <Zip Code="03340" />
+      <Zip Code="03350" />
+    </District>
+    <District Name="Çay">
+      <Zip Code="03700" />
+      <Zip Code="03703" />
+      <Zip Code="03705" />
+      <Zip Code="03706" />
+      <Zip Code="03708" />
+      <Zip Code="03709" />
+      <Zip Code="03710" />
+      <Zip Code="03711" />
+      <Zip Code="03720" />
+    </District>
+    <District Name="Çobanlar">
+      <Zip Code="03060" />
+      <Zip Code="03107" />
+    </District>
+    <District Name="Dazkırı">
+      <Zip Code="03950" />
+      <Zip Code="03980" />
+    </District>
+    <District Name="Dinar">
+      <Zip Code="03400" />
+      <Zip Code="03402" />
+      <Zip Code="03410" />
+      <Zip Code="03480" />
+      <Zip Code="03481" />
+      <Zip Code="03482" />
+      <Zip Code="03483" />
+      <Zip Code="03484" />
+      <Zip Code="03490" />
+      <Zip Code="03495" />
+    </District>
+    <District Name="Emirdağ">
+      <Zip Code="03600" />
+      <Zip Code="03610" />
+      <Zip Code="03620" />
+      <Zip Code="03630" />
+      <Zip Code="03670" />
+      <Zip Code="03680" />
+    </District>
+    <District Name="Evciler">
+      <Zip Code="03960" />
+      <Zip Code="03970" />
+    </District>
+    <District Name="Hocalar">
+      <Zip Code="03530" />
+      <Zip Code="03533" />
+    </District>
+    <District Name="İhsaniye">
+      <Zip Code="03370" />
+      <Zip Code="03373" />
+      <Zip Code="03374" />
+      <Zip Code="03375" />
+      <Zip Code="03380" />
+      <Zip Code="03383" />
+      <Zip Code="03384" />
+      <Zip Code="03390" />
+    </District>
+    <District Name="İscehisar">
+      <Zip Code="03750" />
+      <Zip Code="03752" />
+      <Zip Code="03753" />
+      <Zip Code="03754" />
+    </District>
+    <District Name="Kızılören">
+      <Zip Code="03560" />
+    </District>
+    <District Name="Sandıklı">
+      <Zip Code="03500" />
+      <Zip Code="03510" />
+      <Zip Code="03514" />
+      <Zip Code="03515" />
+      <Zip Code="03518" />
+      <Zip Code="03520" />
+      <Zip Code="03550" />
+      <Zip Code="03570" />
+      <Zip Code="03575" />
+      <Zip Code="03580" />
+      <Zip Code="03585" />
+    </District>
+    <District Name="Sincanlı">
+      <Zip Code="03090" />
+      <Zip Code="03110" />
+      <Zip Code="03120" />
+      <Zip Code="03121" />
+      <Zip Code="03850" />
+      <Zip Code="03852" />
+      <Zip Code="03853" />
+      <Zip Code="03854" />
+      <Zip Code="03857" />
+      <Zip Code="03858" />
+      <Zip Code="03859" />
+      <Zip Code="03860" />
+      <Zip Code="03870" />
+      <Zip Code="03880" />
+    </District>
+    <District Name="Sultandağı">
+      <Zip Code="03900" />
+      <Zip Code="03910" />
+      <Zip Code="03911" />
+      <Zip Code="03920" />
+      <Zip Code="03930" />
+      <Zip Code="03940" />
+      <Zip Code="03941" />
+      <Zip Code="03942" />
+    </District>
+    <District Name="Şuhut">
+      <Zip Code="03800" />
+      <Zip Code="03810" />
+      <Zip Code="03820" />
+      <Zip Code="03830" />
+      <Zip Code="03831" />
+      <Zip Code="03832" />
+      <Zip Code="03833" />
+      <Zip Code="03834" />
+    </District>
+  </City>
+  <City Name="Ağrı" Code="04">
+    <District Name="Ağrı">
+      <Zip Code="04000" />
+      <Zip Code="04100" />
+      <Zip Code="04200" />
+    </District>
+    <District Name="Diyadin">
+      <Zip Code="04900" />
+    </District>
+    <District Name="Doğubeyazıt">
+      <Zip Code="04400" />
+      <Zip Code="04950" />
+    </District>
+    <District Name="Eleşkirt">
+      <Zip Code="04600" />
+      <Zip Code="04620" />
+      <Zip Code="04630" />
+      <Zip Code="04640" />
+    </District>
+    <District Name="Hamur">
+      <Zip Code="04850" />
+    </District>
+    <District Name="Patnos">
+      <Zip Code="04500" />
+    </District>
+    <District Name="Taşlıçay">
+      <Zip Code="04800" />
+    </District>
+    <District Name="Tutak">
+      <Zip Code="04700" />
+    </District>
+  </City>
+  <City Name="Aksaray" Code="68">
+    <District Name="Ağaçören">
+      <Zip Code="68600" />
+      <Zip Code="68610" />
+    </District>
+    <District Name="Aksaray">
+      <Zip Code="68000" />
+      <Zip Code="68100" />
+      <Zip Code="68105" />
+      <Zip Code="68120" />
+      <Zip Code="68125" />
+      <Zip Code="68130" />
+      <Zip Code="68135" />
+      <Zip Code="68136" />
+      <Zip Code="68140" />
+      <Zip Code="68150" />
+      <Zip Code="68165" />
+      <Zip Code="68170" />
+      <Zip Code="68180" />
+      <Zip Code="68190" />
+      <Zip Code="68200" />
+      <Zip Code="68210" />
+      <Zip Code="68220" />
+      <Zip Code="68230" />
+      <Zip Code="68240" />
+      <Zip Code="68250" />
+      <Zip Code="68260" />
+      <Zip Code="68270" />
+      <Zip Code="68280" />
+      <Zip Code="68290" />
+    </District>
+    <District Name="Eskil">
+      <Zip Code="68800" />
+    </District>
+    <District Name="Gülağaç">
+      <Zip Code="68900" />
+      <Zip Code="68910" />
+      <Zip Code="68920" />
+      <Zip Code="68930" />
+      <Zip Code="68940" />
+      <Zip Code="68950" />
+    </District>
+    <District Name="Güzelyurt">
+      <Zip Code="68500" />
+      <Zip Code="68570" />
+    </District>
+    <District Name="Ortaköy">
+      <Zip Code="68400" />
+      <Zip Code="68440" />
+      <Zip Code="68450" />
+      <Zip Code="68460" />
+      <Zip Code="68470" />
+    </District>
+    <District Name="Sarıyahşi">
+      <Zip Code="68700" />
+      <Zip Code="68750" />
+    </District>
+  </City>
+  <City Name="Amasya" Code="05">
+    <District Name="Amasya">
+      <Zip Code="05000" />
+      <Zip Code="05040" />
+      <Zip Code="05100" />
+      <Zip Code="05110" />
+      <Zip Code="05140" />
+      <Zip Code="05190" />
+      <Zip Code="05195" />
+      <Zip Code="05200" />
+      <Zip Code="05230" />
+      <Zip Code="05235" />
+      <Zip Code="05240" />
+    </District>
+    <District Name="Göynücek">
+      <Zip Code="05900" />
+      <Zip Code="05910" />
+      <Zip Code="05920" />
+    </District>
+    <District Name="Gümüşhacıköy">
+      <Zip Code="05700" />
+    </District>
+    <District Name="Hamamözü">
+      <Zip Code="05720" />
+    </District>
+    <District Name="Merzifon">
+      <Zip Code="05300" />
+      <Zip Code="05320" />
+    </District>
+    <District Name="Suluova">
+      <Zip Code="05500" />
+    </District>
+    <District Name="Taşova">
+      <Zip Code="05800" />
+      <Zip Code="05810" />
+      <Zip Code="05820" />
+      <Zip Code="05860" />
+      <Zip Code="05870" />
+      <Zip Code="05876" />
+      <Zip Code="05886" />
+      <Zip Code="05890" />
+      <Zip Code="05896" />
+    </District>
+  </City>
+  <City Name="Ankara" Code="06">
+    <District Name="Akyurt">
+      <Zip Code="06750" />
+    </District>
+    <District Name="Altındağ">
+      <Zip Code="06030" />
+      <Zip Code="06070" />
+      <Zip Code="06080" />
+      <Zip Code="06090" />
+      <Zip Code="06110" />
+      <Zip Code="06130" />
+      <Zip Code="06140" />
+      <Zip Code="06150" />
+      <Zip Code="06160" />
+      <Zip Code="06165" />
+      <Zip Code="06230" />
+      <Zip Code="06250" />
+      <Zip Code="06360" />
+      <Zip Code="06365" />
+    </District>
+    <District Name="Ayaş">
+      <Zip Code="06710" />
+      <Zip Code="06714" />
+    </District>
+    <District Name="Bala">
+      <Zip Code="06720" />
+      <Zip Code="06726" />
+    </District>
+    <District Name="Beypazarı">
+      <Zip Code="06730" />
+      <Zip Code="06732" />
+      <Zip Code="06733" />
+      <Zip Code="06734" />
+    </District>
+    <District Name="Çamlıdere">
+      <Zip Code="06740" />
+    </District>
+    <District Name="Çankaya">
+      <Zip Code="06420" />
+      <Zip Code="06430" />
+      <Zip Code="06450" />
+      <Zip Code="06460" />
+      <Zip Code="06490" />
+      <Zip Code="06510" />
+      <Zip Code="06520" />
+      <Zip Code="06530" />
+      <Zip Code="06540" />
+      <Zip Code="06543" />
+      <Zip Code="06550" />
+      <Zip Code="06570" />
+      <Zip Code="06590" />
+      <Zip Code="06610" />
+      <Zip Code="06660" />
+      <Zip Code="06670" />
+      <Zip Code="06680" />
+      <Zip Code="06690" />
+      <Zip Code="06700" />
+      <Zip Code="06705" />
+      <Zip Code="06800" />
+      <Zip Code="06805" />
+    </District>
+    <District Name="Çubuk">
+      <Zip Code="06760" />
+      <Zip Code="06970" />
+    </District>
+    <District Name="Elmadağ">
+      <Zip Code="06780" />
+      <Zip Code="06850" />
+    </District>
+    <District Name="Etimesgut">
+      <Zip Code="06790" />
+      <Zip Code="06794" />
+      <Zip Code="06796" />
+      <Zip Code="06797" />
+      <Zip Code="06820" />
+      <Zip Code="06824" />
+      <Zip Code="06827" />
+    </District>
+    <District Name="Evren">
+      <Zip Code="06770" />
+    </District>
+    <District Name="Gölbaşı">
+      <Zip Code="06830" />
+    </District>
+    <District Name="Güdül">
+      <Zip Code="06840" />
+      <Zip Code="06842" />
+      <Zip Code="06843" />
+      <Zip Code="06844" />
+    </District>
+    <District Name="Haymana">
+      <Zip Code="06860" />
+      <Zip Code="06863" />
+    </District>
+    <District Name="Kalecik">
+      <Zip Code="06870" />
+    </District>
+    <District Name="Kazan">
+      <Zip Code="06980" />
+    </District>
+    <District Name="Keçiören">
+      <Zip Code="06010" />
+      <Zip Code="06020" />
+      <Zip Code="06120" />
+      <Zip Code="06135" />
+      <Zip Code="06220" />
+      <Zip Code="06280" />
+      <Zip Code="06290" />
+      <Zip Code="06291" />
+      <Zip Code="06300" />
+      <Zip Code="06310" />
+      <Zip Code="06790" />
+    </District>
+    <District Name="Kızılcahamam">
+      <Zip Code="06890" />
+    </District>
+    <District Name="Mamak">
+      <Zip Code="06260" />
+      <Zip Code="06263" />
+      <Zip Code="06270" />
+      <Zip Code="06320" />
+      <Zip Code="06340" />
+      <Zip Code="06350" />
+      <Zip Code="06470" />
+      <Zip Code="06480" />
+      <Zip Code="06620" />
+      <Zip Code="06630" />
+      <Zip Code="06635" />
+      <Zip Code="06852" />
+    </District>
+    <District Name="Nallıhan">
+      <Zip Code="06920" />
+      <Zip Code="06922" />
+      <Zip Code="06925" />
+    </District>
+    <District Name="Polatlı">
+      <Zip Code="06900" />
+    </District>
+    <District Name="Pursaklar">
+      <Zip Code="06145" />
+      <Zip Code="06146" />
+    </District>
+    <District Name="Sincan">
+      <Zip Code="06909" />
+      <Zip Code="06930" />
+      <Zip Code="06932" />
+      <Zip Code="06933" />
+      <Zip Code="06934" />
+      <Zip Code="06935" />
+      <Zip Code="06936" />
+      <Zip Code="06940" />
+      <Zip Code="06946" />
+      <Zip Code="06949" />
+    </District>
+    <District Name="Şereflikoçhisar">
+      <Zip Code="06950" />
+    </District>
+    <District Name="Yenimahalle">
+      <Zip Code="06105" />
+      <Zip Code="06170" />
+      <Zip Code="06180" />
+      <Zip Code="06190" />
+      <Zip Code="06200" />
+      <Zip Code="06210" />
+      <Zip Code="06330" />
+      <Zip Code="06370" />
+      <Zip Code="06374" />
+      <Zip Code="06378" />
+      <Zip Code="06560" />
+      <Zip Code="06810" />
+      <Zip Code="06819" />
+    </District>
+  </City>
+  <City Name="Antalya" Code="07">
+    <District Name="Akseki">
+      <Zip Code="07630" />
+      <Zip Code="07650" />
+    </District>
+    <District Name="Aksu">
+      <Zip Code="07110" />
+    </District>
+    <District Name="Alanya">
+      <Zip Code="07400" />
+      <Zip Code="07407" />
+      <Zip Code="07410" />
+      <Zip Code="07415" />
+      <Zip Code="07425" />
+      <Zip Code="07430" />
+      <Zip Code="07440" />
+      <Zip Code="07450" />
+      <Zip Code="07460" />
+      <Zip Code="07469" />
+      <Zip Code="07470" />
+      <Zip Code="07475" />
+      <Zip Code="07490" />
+    </District>
+    <District Name="Demre">
+      <Zip Code="07570" />
+    </District>
+    <District Name="Döşemealtı">
+      <Zip Code="07120" />
+      <Zip Code="07150" />
+      <Zip Code="07190" />
+    </District>
+    <District Name="Elmalı">
+      <Zip Code="07700" />
+      <Zip Code="07715" />
+      <Zip Code="07770" />
+    </District>
+    <District Name="Finike">
+      <Zip Code="07740" />
+      <Zip Code="07750" />
+      <Zip Code="07880" />
+      <Zip Code="07930" />
+      <Zip Code="07940" />
+    </District>
+    <District Name="Gazipaşa">
+      <Zip Code="07900" />
+      <Zip Code="07915" />
+    </District>
+    <District Name="Gündoğmuş">
+      <Zip Code="07860" />
+    </District>
+    <District Name="İbradı">
+      <Zip Code="07680" />
+      <Zip Code="07690" />
+    </District>
+    <District Name="Kaş">
+      <Zip Code="07580" />
+      <Zip Code="07780" />
+      <Zip Code="07960" />
+      <Zip Code="07965" />
+      <Zip Code="07970" />
+      <Zip Code="07974" />
+      <Zip Code="07975" />
+    </District>
+    <District Name="Kemer">
+      <Zip Code="07980" />
+      <Zip Code="07990" />
+      <Zip Code="07994" />
+      <Zip Code="07995" />
+    </District>
+    <District Name="Kepez">
+      <Zip Code="07020" />
+      <Zip Code="07060" />
+      <Zip Code="07080" />
+      <Zip Code="07090" />
+      <Zip Code="07170" />
+      <Zip Code="07210" />
+      <Zip Code="07220" />
+      <Zip Code="07260" />
+      <Zip Code="07320" />
+    </District>
+    <District Name="Konyaaltı">
+      <Zip Code="07070" />
+      <Zip Code="07130" />
+      <Zip Code="07140" />
+    </District>
+    <District Name="Korkuteli">
+      <Zip Code="07800" />
+      <Zip Code="07810" />
+      <Zip Code="07830" />
+      <Zip Code="07840" />
+    </District>
+    <District Name="Kumluca">
+      <Zip Code="07350" />
+      <Zip Code="07365" />
+      <Zip Code="07370" />
+      <Zip Code="07390" />
+    </District>
+    <District Name="Manavgat">
+      <Zip Code="07330" />
+      <Zip Code="07550" />
+      <Zip Code="07600" />
+    </District>
+    <District Name="Muratpaşa">
+      <Zip Code="07010" />
+      <Zip Code="07030" />
+      <Zip Code="07040" />
+      <Zip Code="07050" />
+      <Zip Code="07100" />
+      <Zip Code="07160" />
+      <Zip Code="07200" />
+      <Zip Code="07230" />
+      <Zip Code="07300" />
+    </District>
+    <District Name="Serik">
+      <Zip Code="07500" />
+      <Zip Code="07505" />
+      <Zip Code="07510" />
+      <Zip Code="07520" />
+      <Zip Code="07525" />
+      <Zip Code="07540" />
+      <Zip Code="07552" />
+    </District>
+  </City>
+  <City Name="Ardahan" Code="75">
+    <District Name="Ardahan">
+      <Zip Code="75000" />
+    </District>
+    <District Name="Çıldır">
+      <Zip Code="75400" />
+      <Zip Code="75550" />
+    </District>
+    <District Name="Damal">
+      <Zip Code="75600" />
+    </District>
+    <District Name="Göle">
+      <Zip Code="75700" />
+      <Zip Code="75780" />
+    </District>
+    <District Name="Hanak">
+      <Zip Code="75900" />
+    </District>
+    <District Name="Posof">
+      <Zip Code="75800" />
+    </District>
+  </City>
+  <City Name="Artvin" Code="08">
+    <District Name="Ardanuç">
+      <Zip Code="08300" />
+      <Zip Code="08390" />
+    </District>
+    <District Name="Arhavi">
+      <Zip Code="08200" />
+      <Zip Code="08290" />
+    </District>
+    <District Name="Artvin">
+      <Zip Code="08000" />
+      <Zip Code="08100" />
+    </District>
+    <District Name="Borçka">
+      <Zip Code="08400" />
+      <Zip Code="08490" />
+    </District>
+    <District Name="Hopa">
+      <Zip Code="08600" />
+      <Zip Code="08610" />
+      <Zip Code="08690" />
+    </District>
+    <District Name="Murgul">
+      <Zip Code="08500" />
+      <Zip Code="08510" />
+      <Zip Code="08590" />
+    </District>
+    <District Name="Şavşat">
+      <Zip Code="08700" />
+      <Zip Code="08720" />
+      <Zip Code="08790" />
+    </District>
+    <District Name="Yusufeli">
+      <Zip Code="08800" />
+      <Zip Code="08820" />
+      <Zip Code="08890" />
+    </District>
+  </City>
+  <City Name="Aydın" Code="09">
+    <District Name="Aydın">
+      <Zip Code="09000" />
+      <Zip Code="09010" />
+      <Zip Code="09020" />
+      <Zip Code="09060" />
+      <Zip Code="09090" />
+      <Zip Code="09100" />
+      <Zip Code="09110" />
+      <Zip Code="09120" />
+      <Zip Code="09230" />
+      <Zip Code="09630" />
+    </District>
+    <District Name="Bozdoğan">
+      <Zip Code="09760" />
+      <Zip Code="09780" />
+    </District>
+    <District Name="Buharkent">
+      <Zip Code="09670" />
+    </District>
+    <District Name="Çine">
+      <Zip Code="09500" />
+      <Zip Code="09520" />
+    </District>
+    <District Name="Didim">
+      <Zip Code="09270" />
+      <Zip Code="09290" />
+      <Zip Code="09295" />
+      <Zip Code="09320" />
+    </District>
+    <District Name="Germencik">
+      <Zip Code="09330" />
+      <Zip Code="09700" />
+      <Zip Code="09710" />
+      <Zip Code="09720" />
+    </District>
+    <District Name="İncirliova">
+      <Zip Code="09600" />
+      <Zip Code="09610" />
+    </District>
+    <District Name="Karacasu">
+      <Zip Code="09370" />
+      <Zip Code="09380" />
+      <Zip Code="09385" />
+      <Zip Code="09390" />
+    </District>
+    <District Name="Karpuzlu">
+      <Zip Code="09540" />
+    </District>
+    <District Name="Koçarlı">
+      <Zip Code="09670" />
+      <Zip Code="09970" />
+      <Zip Code="09990" />
+    </District>
+    <District Name="Köşk">
+      <Zip Code="09570" />
+    </District>
+    <District Name="Kuşadası">
+      <Zip Code="09400" />
+      <Zip Code="09430" />
+      <Zip Code="09460" />
+    </District>
+    <District Name="Kuyucak">
+      <Zip Code="09930" />
+      <Zip Code="09935" />
+      <Zip Code="09940" />
+      <Zip Code="09950" />
+      <Zip Code="09965" />
+    </District>
+    <District Name="Nazilli">
+      <Zip Code="09800" />
+      <Zip Code="09870" />
+      <Zip Code="09900" />
+    </District>
+    <District Name="Söke">
+      <Zip Code="09170" />
+      <Zip Code="09200" />
+      <Zip Code="09206" />
+      <Zip Code="09207" />
+      <Zip Code="09220" />
+      <Zip Code="09230" />
+      <Zip Code="09250" />
+      <Zip Code="09260" />
+    </District>
+    <District Name="Sultanhisar">
+      <Zip Code="09470" />
+      <Zip Code="09490" />
+      <Zip Code="09650" />
+    </District>
+    <District Name="Yenipazar">
+      <Zip Code="09350" />
+    </District>
+  </City>
+  <City Name="Balıkesir" Code="10">
+    <District Name="Ayvalık">
+      <Zip Code="10280" />
+      <Zip Code="10400" />
+      <Zip Code="10405" />
+      <Zip Code="10410" />
+      <Zip Code="10425" />
+    </District>
+    <District Name="Balıkesir">
+      <Zip Code="10020" />
+      <Zip Code="10030" />
+      <Zip Code="10040" />
+      <Zip Code="10050" />
+      <Zip Code="10085" />
+      <Zip Code="10100" />
+      <Zip Code="10110" />
+      <Zip Code="10140" />
+      <Zip Code="10155" />
+      <Zip Code="10180" />
+    </District>
+    <District Name="Balya">
+      <Zip Code="10160" />
+      <Zip Code="10840" />
+    </District>
+    <District Name="Bandırma">
+      <Zip Code="10200" />
+      <Zip Code="10245" />
+      <Zip Code="10640" />
+    </District>
+    <District Name="Bigadiç">
+      <Zip Code="10440" />
+      <Zip Code="10443" />
+      <Zip Code="10460" />
+      <Zip Code="10463" />
+    </District>
+    <District Name="Burhaniye">
+      <Zip Code="10700" />
+      <Zip Code="10730" />
+    </District>
+    <District Name="Dursunbey">
+      <Zip Code="10800" />
+    </District>
+    <District Name="Edremit">
+      <Zip Code="10300" />
+      <Zip Code="10305" />
+      <Zip Code="10325" />
+      <Zip Code="10390" />
+      <Zip Code="10395" />
+      <Zip Code="10870" />
+    </District>
+    <District Name="Erdek">
+      <Zip Code="10500" />
+      <Zip Code="10510" />
+      <Zip Code="10525" />
+      <Zip Code="10530" />
+      <Zip Code="10975" />
+    </District>
+    <District Name="Gömeç">
+      <Zip Code="10715" />
+    </District>
+    <District Name="Gönen">
+      <Zip Code="10680" />
+      <Zip Code="10900" />
+    </District>
+    <District Name="Havran">
+      <Zip Code="10560" />
+      <Zip Code="10565" />
+    </District>
+    <District Name="İvrindi">
+      <Zip Code="10095" />
+      <Zip Code="10770" />
+      <Zip Code="10775" />
+      <Zip Code="10780" />
+      <Zip Code="10785" />
+    </District>
+    <District Name="Kepsut">
+      <Zip Code="10660" />
+    </District>
+    <District Name="Manyas">
+      <Zip Code="10470" />
+      <Zip Code="10480" />
+      <Zip Code="10490" />
+    </District>
+    <District Name="Marmara">
+      <Zip Code="10360" />
+      <Zip Code="10365" />
+      <Zip Code="10940" />
+    </District>
+    <District Name="Savaştepe">
+      <Zip Code="10580" />
+      <Zip Code="10590" />
+    </District>
+    <District Name="Sındırgı">
+      <Zip Code="10330" />
+    </District>
+    <District Name="Susurluk">
+      <Zip Code="10600" />
+      <Zip Code="10610" />
+      <Zip Code="10615" />
+    </District>
+  </City>
+  <City Name="Bartın" Code="74">
+    <District Name="Amasra">
+      <Zip Code="74300" />
+      <Zip Code="74310" />
+    </District>
+    <District Name="Bartın">
+      <Zip Code="74020" />
+      <Zip Code="74100" />
+      <Zip Code="74110" />
+      <Zip Code="74200" />
+      <Zip Code="74400" />
+    </District>
+    <District Name="Kurucaşile">
+      <Zip Code="74500" />
+      <Zip Code="74510" />
+    </District>
+    <District Name="Ulus">
+      <Zip Code="74410" />
+      <Zip Code="74600" />
+      <Zip Code="74610" />
+    </District>
+  </City>
+  <City Name="Batman" Code="72">
+    <District Name="Batman">
+      <Zip Code="72000" />
+      <Zip Code="72040" />
+      <Zip Code="72050" />
+      <Zip Code="72060" />
+      <Zip Code="72070" />
+    </District>
+    <District Name="Beşiri">
+      <Zip Code="72200" />
+      <Zip Code="72240" />
+    </District>
+    <District Name="Gercüş">
+      <Zip Code="72300" />
+      <Zip Code="72310" />
+    </District>
+    <District Name="Hasankeyf">
+      <Zip Code="72350" />
+    </District>
+    <District Name="Kozluk">
+      <Zip Code="72400" />
+    </District>
+    <District Name="Sason">
+      <Zip Code="72500" />
+    </District>
+  </City>
+  <City Name="Bayburt" Code="69">
+    <District Name="Aydıntepe">
+      <Zip Code="69500" />
+    </District>
+    <District Name="Bayburt">
+      <Zip Code="69000" />
+      <Zip Code="69200" />
+      <Zip Code="69250" />
+      <Zip Code="69300" />
+    </District>
+    <District Name="Demirözü">
+      <Zip Code="69400" />
+      <Zip Code="69450" />
+    </District>
+  </City>
+  <City Name="Bilecik" Code="11">
+    <District Name="Bilecik">
+      <Zip Code="11000" />
+      <Zip Code="11120" />
+      <Zip Code="11130" />
+      <Zip Code="11230" />
+    </District>
+    <District Name="Bozüyük">
+      <Zip Code="11300" />
+      <Zip Code="11440" />
+    </District>
+    <District Name="Gölpazarı">
+      <Zip Code="11700" />
+    </District>
+    <District Name="İnhisar">
+      <Zip Code="11640" />
+    </District>
+    <District Name="Osmaneli">
+      <Zip Code="11500" />
+    </District>
+    <District Name="Pazaryeri">
+      <Zip Code="11800" />
+    </District>
+    <District Name="Söğüt">
+      <Zip Code="11460" />
+      <Zip Code="11600" />
+      <Zip Code="11645" />
+    </District>
+    <District Name="Yenipazar">
+      <Zip Code="11780" />
+    </District>
+  </City>
+  <City Name="Bingöl" Code="12">
+    <District Name="Adaklı">
+      <Zip Code="12600" />
+    </District>
+    <District Name="Bingöl">
+      <Zip Code="12000" />
+    </District>
+    <District Name="Genç">
+      <Zip Code="12500" />
+      <Zip Code="12510" />
+    </District>
+    <District Name="Karlıova">
+      <Zip Code="12900" />
+    </District>
+    <District Name="Kiğı">
+      <Zip Code="12800" />
+    </District>
+    <District Name="Solhan">
+      <Zip Code="12700" />
+    </District>
+    <District Name="Yayladere">
+      <Zip Code="12650" />
+    </District>
+    <District Name="Yedisu">
+      <Zip Code="12830" />
+    </District>
+  </City>
+  <City Name="Bitlis" Code="13">
+    <District Name="Adilcevaz">
+      <Zip Code="13500" />
+    </District>
+    <District Name="Ahlat">
+      <Zip Code="13400" />
+    </District>
+    <District Name="Bitlis">
+      <Zip Code="13000" />
+    </District>
+    <District Name="Güroymak">
+      <Zip Code="13800" />
+      <Zip Code="13810" />
+    </District>
+    <District Name="Hizan">
+      <Zip Code="13600" />
+    </District>
+    <District Name="Mutki">
+      <Zip Code="13700" />
+    </District>
+    <District Name="Tatvan">
+      <Zip Code="13200" />
+    </District>
+  </City>
+  <City Name="Bolu" Code="14">
+    <District Name="Bolu">
+      <Zip Code="14020" />
+      <Zip Code="14030" />
+      <Zip Code="14100" />
+      <Zip Code="14200" />
+      <Zip Code="14300" />
+    </District>
+    <District Name="Dörtdivan">
+      <Zip Code="14910" />
+    </District>
+    <District Name="Gerede">
+      <Zip Code="14900" />
+    </District>
+    <District Name="Göynük">
+      <Zip Code="14780" />
+    </District>
+    <District Name="Kıbrıscık">
+      <Zip Code="14610" />
+    </District>
+    <District Name="Mengen">
+      <Zip Code="14840" />
+      <Zip Code="14850" />
+      <Zip Code="14860" />
+    </District>
+    <District Name="Mudurnu">
+      <Zip Code="14800" />
+      <Zip Code="14810" />
+    </District>
+    <District Name="Seben">
+      <Zip Code="14750" />
+    </District>
+    <District Name="Yeniçağa">
+      <Zip Code="14650" />
+    </District>
+  </City>
+  <City Name="Burdur" Code="15">
+    <District Name="Ağlasun">
+      <Zip Code="15800" />
+      <Zip Code="15810" />
+      <Zip Code="15820" />
+    </District>
+    <District Name="Altınyayla">
+      <Zip Code="15420" />
+    </District>
+    <District Name="Bucak">
+      <Zip Code="15300" />
+      <Zip Code="15310" />
+      <Zip Code="15315" />
+      <Zip Code="15325" />
+      <Zip Code="15330" />
+      <Zip Code="15335" />
+    </District>
+    <District Name="Burdur">
+      <Zip Code="15000" />
+      <Zip Code="15030" />
+      <Zip Code="15040" />
+      <Zip Code="15100" />
+      <Zip Code="15110" />
+      <Zip Code="15200" />
+      <Zip Code="15210" />
+    </District>
+    <District Name="Çavdır">
+      <Zip Code="15900" />
+      <Zip Code="15910" />
+      <Zip Code="15920" />
+      <Zip Code="15930" />
+    </District>
+    <District Name="Çeltikçi">
+      <Zip Code="15070" />
+      <Zip Code="15075" />
+    </District>
+    <District Name="Gölhisar">
+      <Zip Code="15400" />
+      <Zip Code="15410" />
+      <Zip Code="15425" />
+    </District>
+    <District Name="Karamanlı">
+      <Zip Code="15700" />
+    </District>
+    <District Name="Kemer">
+      <Zip Code="15090" />
+    </District>
+    <District Name="Tefenni">
+      <Zip Code="15600" />
+      <Zip Code="15610" />
+      <Zip Code="15660" />
+    </District>
+    <District Name="Yeşilova">
+      <Zip Code="15500" />
+      <Zip Code="15515" />
+      <Zip Code="15520" />
+    </District>
+  </City>
+  <City Name="Bursa" Code="16">
+    <District Name="Büyükorhan">
+      <Zip Code="16990" />
+    </District>
+    <District Name="Gemlik">
+      <Zip Code="16600" />
+      <Zip Code="16620" />
+      <Zip Code="16630" />
+      <Zip Code="16650" />
+    </District>
+    <District Name="Gürsu">
+      <Zip Code="16580" />
+    </District>
+    <District Name="Harmancık">
+      <Zip Code="16770" />
+    </District>
+    <District Name="İnegöl">
+      <Zip Code="16400" />
+      <Zip Code="16415" />
+      <Zip Code="16440" />
+    </District>
+    <District Name="İznik">
+      <Zip Code="16860" />
+      <Zip Code="16870" />
+      <Zip Code="16890" />
+    </District>
+    <District Name="Karacabey">
+      <Zip Code="16700" />
+      <Zip Code="16710" />
+    </District>
+    <District Name="Keles">
+      <Zip Code="16740" />
+    </District>
+    <District Name="Kestel">
+      <Zip Code="16450" />
+      <Zip Code="16460" />
+    </District>
+    <District Name="Mudanya">
+      <Zip Code="16940" />
+      <Zip Code="16950" />
+      <Zip Code="16960" />
+      <Zip Code="16970" />
+    </District>
+    <District Name="Mustafakemalpaşa">
+      <Zip Code="16500" />
+      <Zip Code="16510" />
+      <Zip Code="16535" />
+      <Zip Code="16536" />
+      <Zip Code="16550" />
+      <Zip Code="16560" />
+      <Zip Code="16561" />
+    </District>
+    <District Name="Nilüfer">
+      <Zip Code="16110" />
+      <Zip Code="16120" />
+      <Zip Code="16130" />
+      <Zip Code="16140" />
+      <Zip Code="16159" />
+      <Zip Code="16285" />
+      <Zip Code="16315" />
+    </District>
+    <District Name="Orhaneli">
+      <Zip Code="16980" />
+    </District>
+    <District Name="Orhangazi">
+      <Zip Code="16800" />
+      <Zip Code="16805" />
+      <Zip Code="16810" />
+      <Zip Code="16815" />
+      <Zip Code="16820" />
+      <Zip Code="16825" />
+      <Zip Code="16850" />
+    </District>
+    <District Name="Osmangazi">
+      <Zip Code="16010" />
+      <Zip Code="16020" />
+      <Zip Code="16030" />
+      <Zip Code="16040" />
+      <Zip Code="16050" />
+      <Zip Code="16060" />
+      <Zip Code="16080" />
+      <Zip Code="16090" />
+      <Zip Code="16150" />
+      <Zip Code="16160" />
+      <Zip Code="16170" />
+      <Zip Code="16190" />
+      <Zip Code="16200" />
+      <Zip Code="16220" />
+      <Zip Code="16240" />
+      <Zip Code="16245" />
+      <Zip Code="16250" />
+      <Zip Code="16260" />
+      <Zip Code="16265" />
+      <Zip Code="16305" />
+      <Zip Code="16335" />
+      <Zip Code="16370" />
+    </District>
+    <District Name="Yenişehir">
+      <Zip Code="16900" />
+    </District>
+    <District Name="Yıldırım">
+      <Zip Code="16270" />
+      <Zip Code="16290" />
+      <Zip Code="16300" />
+      <Zip Code="16310" />
+      <Zip Code="16320" />
+      <Zip Code="16340" />
+      <Zip Code="16350" />
+      <Zip Code="16360" />
+      <Zip Code="16365" />
+    </District>
+  </City>
+  <City Name="CityName" Code="CityCode">
+    <District Name="DistrictName">
+      <Zip Code="ZipCode" />
+    </District>
+  </City>
+  <City Name="Çanakkale" Code="17">
+    <District Name="Ayvacık">
+      <Zip Code="17860" />
+      <Zip Code="17980" />
+    </District>
+    <District Name="Bayramiç">
+      <Zip Code="17700" />
+      <Zip Code="17720" />
+    </District>
+    <District Name="Biga">
+      <Zip Code="17200" />
+      <Zip Code="17310" />
+      <Zip Code="17320" />
+      <Zip Code="17950" />
+    </District>
+    <District Name="Bozcaada">
+      <Zip Code="17680" />
+    </District>
+    <District Name="Çan">
+      <Zip Code="17400" />
+      <Zip Code="17410" />
+    </District>
+    <District Name="Çanakkale">
+      <Zip Code="17020" />
+      <Zip Code="17060" />
+      <Zip Code="17100" />
+      <Zip Code="17106" />
+      <Zip Code="17110" />
+    </District>
+    <District Name="Eceabat">
+      <Zip Code="17900" />
+    </District>
+    <District Name="Ezine">
+      <Zip Code="17600" />
+      <Zip Code="17610" />
+      <Zip Code="17640" />
+    </District>
+    <District Name="Gelibolu">
+      <Zip Code="17340" />
+      <Zip Code="17350" />
+      <Zip Code="17360" />
+      <Zip Code="17500" />
+    </District>
+    <District Name="Gökçeada">
+      <Zip Code="17760" />
+    </District>
+    <District Name="Lapseki">
+      <Zip Code="17800" />
+      <Zip Code="17810" />
+      <Zip Code="17820" />
+    </District>
+    <District Name="Yenice">
+      <Zip Code="17550" />
+      <Zip Code="17560" />
+      <Zip Code="17570" />
+      <Zip Code="17580" />
+      <Zip Code="17590" />
+    </District>
+  </City>
+  <City Name="Çankırı" Code="18">
+    <District Name="Atkaracalar">
+      <Zip Code="18310" />
+      <Zip Code="18315" />
+    </District>
+    <District Name="Bayramören">
+      <Zip Code="18320" />
+    </District>
+    <District Name="Çankırı">
+      <Zip Code="18000" />
+      <Zip Code="18100" />
+      <Zip Code="18200" />
+    </District>
+    <District Name="Çerkeş">
+      <Zip Code="18600" />
+    </District>
+    <District Name="Eldivan">
+      <Zip Code="18700" />
+    </District>
+    <District Name="Ilgaz">
+      <Zip Code="18400" />
+      <Zip Code="18420" />
+    </District>
+    <District Name="Kızılırmak">
+      <Zip Code="18280" />
+    </District>
+    <District Name="Korgun">
+      <Zip Code="18260" />
+    </District>
+    <District Name="Kurşunlu">
+      <Zip Code="18300" />
+    </District>
+    <District Name="Orta">
+      <Zip Code="18800" />
+      <Zip Code="18810" />
+      <Zip Code="18820" />
+      <Zip Code="18830" />
+      <Zip Code="18850" />
+      <Zip Code="18870" />
+    </District>
+    <District Name="Şabanözü">
+      <Zip Code="18650" />
+      <Zip Code="18660" />
+      <Zip Code="18690" />
+    </District>
+    <District Name="Yapraklı">
+      <Zip Code="18900" />
+      <Zip Code="18910" />
+      <Zip Code="18920" />
+    </District>
+  </City>
+  <City Name="Çorum" Code="19">
+    <District Name="Alaca">
+      <Zip Code="19600" />
+    </District>
+    <District Name="Bayat">
+      <Zip Code="19800" />
+    </District>
+    <District Name="Boğazkale">
+      <Zip Code="19310" />
+    </District>
+    <District Name="Çorum">
+      <Zip Code="19030" />
+      <Zip Code="19040" />
+      <Zip Code="19100" />
+      <Zip Code="19200" />
+    </District>
+    <District Name="Dodurga">
+      <Zip Code="19060" />
+      <Zip Code="19800" />
+    </District>
+    <District Name="İskilip">
+      <Zip Code="19400" />
+    </District>
+    <District Name="Kargı">
+      <Zip Code="19900" />
+      <Zip Code="19910" />
+    </District>
+    <District Name="Laçin">
+      <Zip Code="19020" />
+      <Zip Code="19080" />
+    </District>
+    <District Name="Mecitözü">
+      <Zip Code="19700" />
+    </District>
+    <District Name="Oğuzlar">
+      <Zip Code="19070" />
+    </District>
+    <District Name="Ortaköy">
+      <Zip Code="19950" />
+    </District>
+    <District Name="Osmancık">
+      <Zip Code="19500" />
+    </District>
+    <District Name="Sungurlu">
+      <Zip Code="19300" />
+    </District>
+    <District Name="Uğurludağ">
+      <Zip Code="19410" />
+    </District>
+  </City>
+  <City Name="Denizli" Code="20">
+    <District Name="Acıpayam">
+      <Zip Code="20800" />
+      <Zip Code="20810" />
+      <Zip Code="20820" />
+      <Zip Code="20830" />
+      <Zip Code="20840" />
+      <Zip Code="20870" />
+      <Zip Code="20880" />
+      <Zip Code="20890" />
+    </District>
+    <District Name="Akköy">
+      <Zip Code="20260" />
+      <Zip Code="20265" />
+      <Zip Code="20280" />
+      <Zip Code="20290" />
+    </District>
+    <District Name="Babadağ">
+      <Zip Code="20480" />
+    </District>
+    <District Name="Baklan">
+      <Zip Code="20770" />
+      <Zip Code="20780" />
+    </District>
+    <District Name="Bekilli">
+      <Zip Code="20930" />
+      <Zip Code="20940" />
+    </District>
+    <District Name="Beyağaç">
+      <Zip Code="20590" />
+    </District>
+    <District Name="Bozkurt">
+      <Zip Code="20370" />
+      <Zip Code="20380" />
+    </District>
+    <District Name="Buldan">
+      <Zip Code="20400" />
+      <Zip Code="20410" />
+    </District>
+    <District Name="Çal">
+      <Zip Code="20700" />
+      <Zip Code="20710" />
+      <Zip Code="20720" />
+      <Zip Code="20730" />
+      <Zip Code="20740" />
+      <Zip Code="20750" />
+      <Zip Code="20755" />
+      <Zip Code="20760" />
+      <Zip Code="20765" />
+    </District>
+    <District Name="Çameli">
+      <Zip Code="20980" />
+    </District>
+    <District Name="Çardak">
+      <Zip Code="20350" />
+      <Zip Code="20360" />
+    </District>
+    <District Name="Çivril">
+      <Zip Code="20600" />
+      <Zip Code="20610" />
+      <Zip Code="20620" />
+      <Zip Code="20630" />
+      <Zip Code="20640" />
+      <Zip Code="20650" />
+      <Zip Code="20670" />
+      <Zip Code="20675" />
+      <Zip Code="20680" />
+      <Zip Code="20690" />
+    </District>
+    <District Name="Denizli">
+      <Zip Code="20010" />
+      <Zip Code="20020" />
+      <Zip Code="20070" />
+      <Zip Code="20085" />
+      <Zip Code="20100" />
+      <Zip Code="20125" />
+      <Zip Code="20150" />
+      <Zip Code="20155" />
+      <Zip Code="20175" />
+      <Zip Code="20180" />
+      <Zip Code="20185" />
+      <Zip Code="20200" />
+      <Zip Code="20210" />
+      <Zip Code="20225" />
+      <Zip Code="20254" />
+    </District>
+    <District Name="Güney">
+      <Zip Code="20460" />
+    </District>
+    <District Name="Honaz">
+      <Zip Code="20240" />
+      <Zip Code="20330" />
+    </District>
+    <District Name="Kale">
+      <Zip Code="20570" />
+      <Zip Code="20575" />
+    </District>
+    <District Name="Sarayköy">
+      <Zip Code="20300" />
+      <Zip Code="20310" />
+      <Zip Code="20315" />
+      <Zip Code="20320" />
+      <Zip Code="20325" />
+    </District>
+    <District Name="Serinhisar">
+      <Zip Code="20430" />
+      <Zip Code="20440" />
+    </District>
+    <District Name="Tavas">
+      <Zip Code="20500" />
+      <Zip Code="20510" />
+      <Zip Code="20520" />
+      <Zip Code="20530" />
+      <Zip Code="20535" />
+      <Zip Code="20540" />
+      <Zip Code="20555" />
+      <Zip Code="20560" />
+      <Zip Code="20565" />
+      <Zip Code="20950" />
+      <Zip Code="20960" />
+    </District>
+  </City>
+  <City Name="Diyarbakır" Code="21">
+    <District Name="Bağlar">
+      <Zip Code="21050" />
+      <Zip Code="21060" />
+      <Zip Code="21080" />
+      <Zip Code="21090" />
+    </District>
+    <District Name="Bismil">
+      <Zip Code="21500" />
+      <Zip Code="21510" />
+      <Zip Code="21520" />
+    </District>
+    <District Name="Çermik">
+      <Zip Code="21600" />
+    </District>
+    <District Name="Çınar">
+      <Zip Code="21750" />
+    </District>
+    <District Name="Çüngüş">
+      <Zip Code="21870" />
+    </District>
+    <District Name="Dicle">
+      <Zip Code="21830" />
+    </District>
+    <District Name="Eğil">
+      <Zip Code="21470" />
+    </District>
+    <District Name="Ergani">
+      <Zip Code="21950" />
+    </District>
+    <District Name="Hani">
+      <Zip Code="21800" />
+    </District>
+    <District Name="Hazro">
+      <Zip Code="21560" />
+    </District>
+    <District Name="Kayapınar">
+      <Zip Code="21070" />
+      <Zip Code="21075" />
+    </District>
+    <District Name="Kocaköy">
+      <Zip Code="21450" />
+    </District>
+    <District Name="Kulp">
+      <Zip Code="21900" />
+    </District>
+    <District Name="Lice">
+      <Zip Code="21700" />
+    </District>
+    <District Name="Silvan">
+      <Zip Code="21640" />
+    </District>
+    <District Name="Sur">
+      <Zip Code="21200" />
+      <Zip Code="21280" />
+      <Zip Code="21300" />
+      <Zip Code="21310" />
+    </District>
+    <District Name="Yenişehir">
+      <Zip Code="21010" />
+      <Zip Code="21100" />
+      <Zip Code="21120" />
+    </District>
+  </City>
+  <City Name="Düzce" Code="81">
+    <District Name="Akçakoca">
+      <Zip Code="81650" />
+    </District>
+    <District Name="Cumayeri">
+      <Zip Code="81700" />
+    </District>
+    <District Name="Çilimli">
+      <Zip Code="81750" />
+    </District>
+    <District Name="Düzce">
+      <Zip Code="81010" />
+      <Zip Code="81020" />
+      <Zip Code="81030" />
+      <Zip Code="81100" />
+      <Zip Code="81600" />
+      <Zip Code="81620" />
+      <Zip Code="81630" />
+    </District>
+    <District Name="Gölyaka">
+      <Zip Code="81800" />
+    </District>
+    <District Name="Gümüşova">
+      <Zip Code="81850" />
+    </District>
+    <District Name="Kaynaşlı">
+      <Zip Code="81900" />
+    </District>
+    <District Name="Yığılca">
+      <Zip Code="81950" />
+    </District>
+  </City>
+  <City Name="Edirne" Code="22">
+    <District Name="Edirne">
+      <Zip Code="22020" />
+      <Zip Code="22030" />
+      <Zip Code="22100" />
+      <Zip Code="22130" />
+      <Zip Code="22770" />
+    </District>
+    <District Name="Enez">
+      <Zip Code="22700" />
+      <Zip Code="22750" />
+    </District>
+    <District Name="Havsa">
+      <Zip Code="22500" />
+      <Zip Code="22530" />
+    </District>
+    <District Name="İpsala">
+      <Zip Code="22400" />
+      <Zip Code="22410" />
+      <Zip Code="22420" />
+      <Zip Code="22480" />
+      <Zip Code="22490" />
+    </District>
+    <District Name="Keşan">
+      <Zip Code="22800" />
+      <Zip Code="22880" />
+      <Zip Code="22900" />
+      <Zip Code="22910" />
+      <Zip Code="22920" />
+      <Zip Code="22930" />
+    </District>
+    <District Name="Lalapaşa">
+      <Zip Code="22950" />
+      <Zip Code="22970" />
+    </District>
+    <District Name="Meriç">
+      <Zip Code="22600" />
+      <Zip Code="22610" />
+      <Zip Code="22670" />
+      <Zip Code="22680" />
+    </District>
+    <District Name="Süloğlu">
+      <Zip Code="22560" />
+      <Zip Code="22580" />
+    </District>
+    <District Name="Uzunköprü">
+      <Zip Code="22200" />
+      <Zip Code="22260" />
+      <Zip Code="22300" />
+      <Zip Code="22360" />
+    </District>
+  </City>
+  <City Name="Elazığ" Code="23">
+    <District Name="Ağın">
+      <Zip Code="23960" />
+    </District>
+    <District Name="Alacakaya">
+      <Zip Code="23410" />
+    </District>
+    <District Name="Arıcak">
+      <Zip Code="23510" />
+    </District>
+    <District Name="Baskil">
+      <Zip Code="23800" />
+    </District>
+    <District Name="Elazığ">
+      <Zip Code="23040" />
+      <Zip Code="23050" />
+      <Zip Code="23090" />
+      <Zip Code="23100" />
+      <Zip Code="23130" />
+      <Zip Code="23150" />
+      <Zip Code="23180" />
+      <Zip Code="23190" />
+      <Zip Code="23200" />
+      <Zip Code="23250" />
+      <Zip Code="23270" />
+      <Zip Code="23280" />
+      <Zip Code="23300" />
+      <Zip Code="23350" />
+    </District>
+    <District Name="Karakoçan">
+      <Zip Code="23600" />
+    </District>
+    <District Name="Keban">
+      <Zip Code="23700" />
+    </District>
+    <District Name="Kovancılar">
+      <Zip Code="23850" />
+    </District>
+    <District Name="Maden">
+      <Zip Code="23400" />
+      <Zip Code="23460" />
+    </District>
+    <District Name="Palu">
+      <Zip Code="23500" />
+      <Zip Code="23530" />
+    </District>
+    <District Name="Sivrice">
+      <Zip Code="23900" />
+    </District>
+  </City>
+  <City Name="Erzincan" Code="24">
+    <District Name="Çayırlı">
+      <Zip Code="24500" />
+      <Zip Code="24503" />
+    </District>
+    <District Name="Erzincan">
+      <Zip Code="24002" />
+      <Zip Code="24036" />
+      <Zip Code="24046" />
+      <Zip Code="24050" />
+      <Zip Code="24056" />
+      <Zip Code="24100" />
+      <Zip Code="24131" />
+      <Zip Code="24132" />
+      <Zip Code="24134" />
+      <Zip Code="24139" />
+      <Zip Code="24141" />
+      <Zip Code="24143" />
+      <Zip Code="24145" />
+      <Zip Code="24147" />
+      <Zip Code="24149" />
+      <Zip Code="24171" />
+      <Zip Code="24181" />
+    </District>
+    <District Name="Ilıç">
+      <Zip Code="24700" />
+      <Zip Code="24710" />
+    </District>
+    <District Name="Kemah">
+      <Zip Code="24400" />
+    </District>
+    <District Name="Kemaliye">
+      <Zip Code="24600" />
+      <Zip Code="24610" />
+      <Zip Code="24620" />
+    </District>
+    <District Name="Otlukbeli">
+      <Zip Code="24510" />
+      <Zip Code="24515" />
+    </District>
+    <District Name="Refahiye">
+      <Zip Code="24300" />
+    </District>
+    <District Name="Tercan">
+      <Zip Code="24800" />
+      <Zip Code="24860" />
+      <Zip Code="24870" />
+      <Zip Code="24880" />
+    </District>
+    <District Name="Üzümlü">
+      <Zip Code="24150" />
+      <Zip Code="24160" />
+      <Zip Code="24165" />
+      <Zip Code="24175" />
+    </District>
+  </City>
+  <City Name="Erzurum" Code="25">
+    <District Name="Aşkale">
+      <Zip Code="25500" />
+      <Zip Code="25680" />
+    </District>
+    <District Name="Aziziye">
+      <Zip Code="25700" />
+    </District>
+    <District Name="Çat">
+      <Zip Code="25750" />
+      <Zip Code="25760" />
+    </District>
+    <District Name="Hınıs">
+      <Zip Code="25600" />
+    </District>
+    <District Name="Horasan">
+      <Zip Code="25800" />
+    </District>
+    <District Name="İspir">
+      <Zip Code="25900" />
+      <Zip Code="25940" />
+    </District>
+    <District Name="Karaçoban">
+      <Zip Code="25610" />
+    </District>
+    <District Name="Karayazı">
+      <Zip Code="25830" />
+      <Zip Code="25840" />
+    </District>
+    <District Name="Köprüköy">
+      <Zip Code="25320" />
+      <Zip Code="25340" />
+    </District>
+    <District Name="Narman">
+      <Zip Code="25530" />
+      <Zip Code="25534" />
+    </District>
+    <District Name="Oltu">
+      <Zip Code="25400" />
+    </District>
+    <District Name="Olur">
+      <Zip Code="25650" />
+    </District>
+    <District Name="Palandöken">
+      <Zip Code="25060" />
+      <Zip Code="25070" />
+      <Zip Code="25080" />
+      <Zip Code="25090" />
+    </District>
+    <District Name="Pasinler">
+      <Zip Code="25300" />
+    </District>
+    <District Name="Pazaryolu">
+      <Zip Code="25930" />
+    </District>
+    <District Name="Şenkaya">
+      <Zip Code="25360" />
+      <Zip Code="25370" />
+      <Zip Code="25380" />
+      <Zip Code="25390" />
+    </District>
+    <District Name="Tekman">
+      <Zip Code="25560" />
+    </District>
+    <District Name="Tortum">
+      <Zip Code="25430" />
+      <Zip Code="25460" />
+      <Zip Code="25470" />
+      <Zip Code="25480" />
+    </District>
+    <District Name="Uzundere">
+      <Zip Code="25440" />
+    </District>
+    <District Name="Yakutiye">
+      <Zip Code="25010" />
+      <Zip Code="25030" />
+      <Zip Code="25040" />
+      <Zip Code="25050" />
+      <Zip Code="25100" />
+      <Zip Code="25200" />
+      <Zip Code="25240" />
+    </District>
+  </City>
+  <City Name="Eskişehir" Code="26">
+    <District Name="Alpu">
+      <Zip Code="26850" />
+      <Zip Code="26860" />
+    </District>
+    <District Name="Beylikova">
+      <Zip Code="26750" />
+    </District>
+    <District Name="Çifteler">
+      <Zip Code="26700" />
+    </District>
+    <District Name="Günyüzü">
+      <Zip Code="26630" />
+      <Zip Code="26650" />
+      <Zip Code="26663" />
+    </District>
+    <District Name="Han">
+      <Zip Code="26710" />
+    </District>
+    <District Name="İnönü">
+      <Zip Code="26670" />
+      <Zip Code="26690" />
+    </District>
+    <District Name="Mahmudiye">
+      <Zip Code="26800" />
+    </District>
+    <District Name="Mihalgazi">
+      <Zip Code="26880" />
+    </District>
+    <District Name="Mihalıççık">
+      <Zip Code="26900" />
+      <Zip Code="26920" />
+      <Zip Code="26940" />
+    </District>
+    <District Name="Odunpazarı">
+      <Zip Code="26004" />
+      <Zip Code="26010" />
+      <Zip Code="26020" />
+      <Zip Code="26030" />
+      <Zip Code="26040" />
+      <Zip Code="26050" />
+      <Zip Code="26060" />
+      <Zip Code="26070" />
+      <Zip Code="26080" />
+      <Zip Code="26090" />
+      <Zip Code="26100" />
+      <Zip Code="26110" />
+      <Zip Code="26140" />
+      <Zip Code="26160" />
+      <Zip Code="26240" />
+      <Zip Code="26250" />
+      <Zip Code="26576" />
+    </District>
+    <District Name="Sarıcakaya">
+      <Zip Code="26870" />
+    </District>
+    <District Name="Seyitgazi">
+      <Zip Code="26950" />
+      <Zip Code="26960" />
+      <Zip Code="26970" />
+    </District>
+    <District Name="Sivrihisar">
+      <Zip Code="26600" />
+      <Zip Code="26625" />
+      <Zip Code="26640" />
+      <Zip Code="26657" />
+    </District>
+    <District Name="Tepebaşı">
+      <Zip Code="26005" />
+      <Zip Code="26120" />
+      <Zip Code="26130" />
+      <Zip Code="26150" />
+      <Zip Code="26170" />
+      <Zip Code="26180" />
+      <Zip Code="26190" />
+      <Zip Code="26200" />
+      <Zip Code="26210" />
+      <Zip Code="26220" />
+      <Zip Code="26230" />
+      <Zip Code="26550" />
+      <Zip Code="26555" />
+      <Zip Code="26560" />
+      <Zip Code="26563" />
+    </District>
+  </City>
+  <City Name="Gaziantep" Code="27">
+    <District Name="Araban">
+      <Zip Code="27650" />
+      <Zip Code="27655" />
+    </District>
+    <District Name="İslahiye">
+      <Zip Code="27800" />
+      <Zip Code="27805" />
+      <Zip Code="27810" />
+      <Zip Code="27815" />
+      <Zip Code="27820" />
+    </District>
+    <District Name="Karkamış">
+      <Zip Code="27880" />
+    </District>
+    <District Name="Nizip">
+      <Zip Code="27700" />
+    </District>
+    <District Name="Nurdağı">
+      <Zip Code="27840" />
+      <Zip Code="27845" />
+      <Zip Code="27850" />
+    </District>
+    <District Name="Oğuzeli">
+      <Zip Code="27900" />
+      <Zip Code="27910" />
+      <Zip Code="27920" />
+    </District>
+    <District Name="Şahinbey">
+      <Zip Code="27010" />
+      <Zip Code="27070" />
+      <Zip Code="27100" />
+      <Zip Code="27200" />
+      <Zip Code="27220" />
+      <Zip Code="27240" />
+      <Zip Code="27245" />
+      <Zip Code="27260" />
+      <Zip Code="27270" />
+      <Zip Code="27300" />
+      <Zip Code="27400" />
+      <Zip Code="27410" />
+      <Zip Code="27470" />
+    </District>
+    <District Name="Şehitkamil">
+      <Zip Code="27000" />
+      <Zip Code="27060" />
+      <Zip Code="27080" />
+      <Zip Code="27090" />
+      <Zip Code="27110" />
+      <Zip Code="27500" />
+      <Zip Code="27560" />
+      <Zip Code="27580" />
+      <Zip Code="27590" />
+      <Zip Code="27600" />
+      <Zip Code="27610" />
+      <Zip Code="27620" />
+      <Zip Code="27630" />
+      <Zip Code="27660" />
+    </District>
+    <District Name="Yavuzeli">
+      <Zip Code="27970" />
+    </District>
+  </City>
+  <City Name="Giresun" Code="28">
+    <District Name="Alucra">
+      <Zip Code="28700" />
+    </District>
+    <District Name="Bulancak">
+      <Zip Code="28300" />
+      <Zip Code="28310" />
+    </District>
+    <District Name="Çamoluk">
+      <Zip Code="28710" />
+    </District>
+    <District Name="Çanakçı">
+      <Zip Code="28810" />
+      <Zip Code="28815" />
+    </District>
+    <District Name="Dereli">
+      <Zip Code="28950" />
+      <Zip Code="28960" />
+    </District>
+    <District Name="Doğankent">
+      <Zip Code="28510" />
+    </District>
+    <District Name="Espiye">
+      <Zip Code="28600" />
+    </District>
+    <District Name="Eynesil">
+      <Zip Code="28850" />
+      <Zip Code="28860" />
+    </District>
+    <District Name="Giresun">
+      <Zip Code="28010" />
+      <Zip Code="28020" />
+      <Zip Code="28030" />
+      <Zip Code="28090" />
+      <Zip Code="28100" />
+      <Zip Code="28200" />
+    </District>
+    <District Name="Görele">
+      <Zip Code="28800" />
+      <Zip Code="28820" />
+    </District>
+    <District Name="Güce">
+      <Zip Code="28520" />
+    </District>
+    <District Name="Keşap">
+      <Zip Code="28900" />
+      <Zip Code="28910" />
+    </District>
+    <District Name="Piraziz">
+      <Zip Code="28340" />
+    </District>
+    <District Name="Şebinkarahisar">
+      <Zip Code="28400" />
+    </District>
+    <District Name="Tirebolu">
+      <Zip Code="28500" />
+    </District>
+    <District Name="Yağlıdere">
+      <Zip Code="28610" />
+    </District>
+  </City>
+  <City Name="Gümüşhane" Code="29">
+    <District Name="Gümüşhane">
+      <Zip Code="29000" />
+      <Zip Code="29100" />
+      <Zip Code="29150" />
+      <Zip Code="29200" />
+    </District>
+    <District Name="Kelkit">
+      <Zip Code="29600" />
+    </District>
+    <District Name="Köse">
+      <Zip Code="29650" />
+      <Zip Code="29660" />
+    </District>
+    <District Name="Kürtün">
+      <Zip Code="29810" />
+      <Zip Code="29830" />
+    </District>
+    <District Name="Şiran">
+      <Zip Code="29700" />
+      <Zip Code="29750" />
+    </District>
+    <District Name="Torul">
+      <Zip Code="29800" />
+    </District>
+  </City>
+  <City Name="Hakkari" Code="30">
+    <District Name="Çukurca">
+      <Zip Code="30700" />
+    </District>
+    <District Name="Hakkari">
+      <Zip Code="30000" />
+      <Zip Code="30110" />
+    </District>
+    <District Name="Şemdinli">
+      <Zip Code="30800" />
+    </District>
+    <District Name="Yüksekova">
+      <Zip Code="30300" />
+      <Zip Code="30330" />
+      <Zip Code="30400" />
+    </District>
+  </City>
+  <City Name="Hatay" Code="31">
+    <District Name="Altınözü">
+      <Zip Code="31750" />
+    </District>
+    <District Name="Antakya">
+      <Zip Code="31030" />
+      <Zip Code="31040" />
+      <Zip Code="31060" />
+      <Zip Code="31070" />
+      <Zip Code="31075" />
+      <Zip Code="31080" />
+      <Zip Code="31115" />
+      <Zip Code="31120" />
+      <Zip Code="31135" />
+      <Zip Code="31145" />
+      <Zip Code="31155" />
+      <Zip Code="31160" />
+      <Zip Code="31170" />
+      <Zip Code="31175" />
+    </District>
+    <District Name="Belen">
+      <Zip Code="31350" />
+    </District>
+    <District Name="Dörtyol">
+      <Zip Code="31600" />
+      <Zip Code="31900" />
+    </District>
+    <District Name="Erzin">
+      <Zip Code="31960" />
+    </District>
+    <District Name="Hassa">
+      <Zip Code="31700" />
+      <Zip Code="31710" />
+      <Zip Code="31720" />
+    </District>
+    <District Name="İskenderun">
+      <Zip Code="31200" />
+      <Zip Code="31230" />
+      <Zip Code="31240" />
+      <Zip Code="31285" />
+      <Zip Code="31300" />
+    </District>
+    <District Name="Kırıkhan">
+      <Zip Code="31440" />
+      <Zip Code="31445" />
+    </District>
+    <District Name="Kumlu">
+      <Zip Code="31520" />
+    </District>
+    <District Name="Reyhanlı">
+      <Zip Code="31500" />
+    </District>
+    <District Name="Samandağ">
+      <Zip Code="31185" />
+      <Zip Code="31770" />
+      <Zip Code="31795" />
+      <Zip Code="31800" />
+      <Zip Code="31810" />
+      <Zip Code="31815" />
+      <Zip Code="31820" />
+      <Zip Code="31825" />
+      <Zip Code="31835" />
+      <Zip Code="31855" />
+      <Zip Code="31865" />
+      <Zip Code="31880" />
+      <Zip Code="31885" />
+    </District>
+    <District Name="Yayladağı">
+      <Zip Code="31550" />
+      <Zip Code="31553" />
+      <Zip Code="31560" />
+      <Zip Code="31570" />
+    </District>
+  </City>
+  <City Name="Iğdır" Code="76">
+    <District Name="Aralık">
+      <Zip Code="76500" />
+    </District>
+    <District Name="Iğdır">
+      <Zip Code="76000" />
+      <Zip Code="76400" />
+      <Zip Code="76410" />
+      <Zip Code="76420" />
+    </District>
+    <District Name="Karakoyunlu">
+      <Zip Code="76700" />
+      <Zip Code="76800" />
+    </District>
+    <District Name="Tuzluca">
+      <Zip Code="76900" />
+    </District>
+  </City>
+  <City Name="Isparta" Code="32">
+    <District Name="Aksu">
+      <Zip Code="32510" />
+      <Zip Code="32516" />
+    </District>
+    <District Name="Atabey">
+      <Zip Code="32670" />
+      <Zip Code="32680" />
+    </District>
+    <District Name="Eğirdir">
+      <Zip Code="32500" />
+      <Zip Code="32503" />
+      <Zip Code="32530" />
+      <Zip Code="32540" />
+      <Zip Code="32550" />
+    </District>
+    <District Name="Gelendost">
+      <Zip Code="32900" />
+      <Zip Code="32910" />
+    </District>
+    <District Name="Gönen">
+      <Zip Code="32090" />
+      <Zip Code="32720" />
+    </District>
+    <District Name="Isparta">
+      <Zip Code="32040" />
+      <Zip Code="32100" />
+      <Zip Code="32110" />
+      <Zip Code="32120" />
+      <Zip Code="32130" />
+      <Zip Code="32200" />
+      <Zip Code="32300" />
+    </District>
+    <District Name="Keçiborlu">
+      <Zip Code="32700" />
+      <Zip Code="32710" />
+      <Zip Code="32740" />
+      <Zip Code="32750" />
+      <Zip Code="32765" />
+    </District>
+    <District Name="Senirkent">
+      <Zip Code="32600" />
+      <Zip Code="32610" />
+      <Zip Code="32620" />
+      <Zip Code="32640" />
+    </District>
+    <District Name="Sütçüler">
+      <Zip Code="32950" />
+      <Zip Code="32960" />
+      <Zip Code="32965" />
+      <Zip Code="32966" />
+    </District>
+    <District Name="Şarkikaraağaç">
+      <Zip Code="32800" />
+      <Zip Code="32810" />
+      <Zip Code="32820" />
+      <Zip Code="32840" />
+    </District>
+    <District Name="Uluborlu">
+      <Zip Code="32650" />
+    </District>
+    <District Name="Yalvaç">
+      <Zip Code="32400" />
+      <Zip Code="32406" />
+      <Zip Code="32407" />
+      <Zip Code="32410" />
+      <Zip Code="32415" />
+      <Zip Code="32425" />
+      <Zip Code="32430" />
+      <Zip Code="32440" />
+      <Zip Code="32450" />
+      <Zip Code="32460" />
+      <Zip Code="32470" />
+      <Zip Code="32480" />
+      <Zip Code="32490" />
+    </District>
+    <District Name="Yenişarbademli">
+      <Zip Code="32850" />
+    </District>
+  </City>
+  <City Name="İstanbul" Code="34">
+    <District Name="Adalar">
+      <Zip Code="34970" />
+      <Zip Code="34973" />
+      <Zip Code="34975" />
+      <Zip Code="34977" />
+    </District>
+    <District Name="Arnavutköy">
+      <Zip Code="34275" />
+      <Zip Code="34281" />
+      <Zip Code="34283" />
+      <Zip Code="34285" />
+      <Zip Code="34287" />
+      <Zip Code="34555" />
+      <Zip Code="34557" />
+    </District>
+    <District Name="Ataşehir">
+      <Zip Code="34704" />
+      <Zip Code="34707" />
+      <Zip Code="34746" />
+      <Zip Code="34750" />
+      <Zip Code="34752" />
+      <Zip Code="34755" />
+      <Zip Code="34758" />
+      <Zip Code="34779" />
+      <Zip Code="34888" />
+    </District>
+    <District Name="Avcılar">
+      <Zip Code="34315" />
+      <Zip Code="34320" />
+      <Zip Code="34325" />
+    </District>
+    <District Name="Bağcılar">
+      <Zip Code="34200" />
+      <Zip Code="34203" />
+      <Zip Code="34204" />
+      <Zip Code="34209" />
+      <Zip Code="34210" />
+      <Zip Code="34212" />
+      <Zip Code="34214" />
+      <Zip Code="34218" />
+    </District>
+    <District Name="Bahçelievler">
+      <Zip Code="34180" />
+      <Zip Code="34182" />
+      <Zip Code="34183" />
+      <Zip Code="34186" />
+      <Zip Code="34188" />
+      <Zip Code="34191" />
+      <Zip Code="34192" />
+      <Zip Code="34194" />
+      <Zip Code="34196" />
+      <Zip Code="34197" />
+    </District>
+    <District Name="Bakırköy">
+      <Zip Code="34140" />
+      <Zip Code="34142" />
+      <Zip Code="34145" />
+      <Zip Code="34146" />
+      <Zip Code="34147" />
+      <Zip Code="34149" />
+      <Zip Code="34153" />
+      <Zip Code="34158" />
+    </District>
+    <District Name="Başakşehir">
+      <Zip Code="34480" />
+      <Zip Code="34488" />
+      <Zip Code="34490" />
+      <Zip Code="34494" />
+    </District>
+    <District Name="Bayrampaşa">
+      <Zip Code="34030" />
+      <Zip Code="34035" />
+      <Zip Code="34040" />
+      <Zip Code="34045" />
+    </District>
+    <District Name="Beşiktaş">
+      <Zip Code="34330" />
+      <Zip Code="34335" />
+      <Zip Code="34337" />
+      <Zip Code="34340" />
+      <Zip Code="34342" />
+      <Zip Code="34345" />
+      <Zip Code="34347" />
+      <Zip Code="34349" />
+      <Zip Code="34353" />
+      <Zip Code="34357" />
+    </District>
+    <District Name="Beykoz">
+      <Zip Code="34800" />
+      <Zip Code="34805" />
+      <Zip Code="34810" />
+      <Zip Code="34815" />
+      <Zip Code="34820" />
+      <Zip Code="34825" />
+      <Zip Code="34829" />
+      <Zip Code="34830" />
+    </District>
+    <District Name="Beylikdüzü">
+      <Zip Code="34520" />
+      <Zip Code="34524" />
+      <Zip Code="34528" />
+    </District>
+    <District Name="Beyoğlu">
+      <Zip Code="34421" />
+      <Zip Code="34425" />
+      <Zip Code="34427" />
+      <Zip Code="34430" />
+      <Zip Code="34433" />
+      <Zip Code="34435" />
+      <Zip Code="34437" />
+      <Zip Code="34440" />
+      <Zip Code="34445" />
+    </District>
+    <District Name="Büyükçekmece">
+      <Zip Code="34500" />
+      <Zip Code="34530" />
+      <Zip Code="34535" />
+      <Zip Code="34537" />
+      <Zip Code="34584" />
+    </District>
+    <District Name="Çatalca">
+      <Zip Code="34540" />
+      <Zip Code="34550" />
+      <Zip Code="34560" />
+      <Zip Code="34562" />
+    </District>
+    <District Name="Çekmeköy">
+      <Zip Code="34782" />
+      <Zip Code="34788" />
+      <Zip Code="34794" />
+      <Zip Code="34799" />
+    </District>
+    <District Name="Esenler">
+      <Zip Code="34220" />
+      <Zip Code="34225" />
+      <Zip Code="34230" />
+      <Zip Code="34235" />
+    </District>
+    <District Name="Esenyurt">
+      <Zip Code="34510" />
+      <Zip Code="34513" />
+      <Zip Code="34515" />
+      <Zip Code="34517" />
+      <Zip Code="34522" />
+      <Zip Code="34538" />
+    </District>
+    <District Name="Eyüp">
+      <Zip Code="34050" />
+      <Zip Code="34055" />
+      <Zip Code="34060" />
+      <Zip Code="34065" />
+      <Zip Code="34070" />
+      <Zip Code="34075" />
+      <Zip Code="34076" />
+      <Zip Code="34077" />
+    </District>
+    <District Name="Fatih">
+      <Zip Code="34080" />
+      <Zip Code="34083" />
+      <Zip Code="34087" />
+      <Zip Code="34091" />
+      <Zip Code="34093" />
+      <Zip Code="34096" />
+      <Zip Code="34098" />
+      <Zip Code="34104" />
+      <Zip Code="34107" />
+      <Zip Code="34110" />
+      <Zip Code="34112" />
+      <Zip Code="34116" />
+      <Zip Code="34120" />
+      <Zip Code="34122" />
+      <Zip Code="34126" />
+      <Zip Code="34130" />
+      <Zip Code="34134" />
+    </District>
+    <District Name="Gaziosmanpaşa">
+      <Zip Code="34240" />
+      <Zip Code="34245" />
+      <Zip Code="34250" />
+      <Zip Code="34255" />
+    </District>
+    <District Name="Güngören">
+      <Zip Code="34160" />
+      <Zip Code="34164" />
+      <Zip Code="34165" />
+      <Zip Code="34173" />
+    </District>
+    <District Name="Kadıköy">
+      <Zip Code="34710" />
+      <Zip Code="34714" />
+      <Zip Code="34716" />
+      <Zip Code="34718" />
+      <Zip Code="34720" />
+      <Zip Code="34722" />
+      <Zip Code="34724" />
+      <Zip Code="34726" />
+      <Zip Code="34728" />
+      <Zip Code="34730" />
+      <Zip Code="34732" />
+      <Zip Code="34734" />
+      <Zip Code="34736" />
+      <Zip Code="34738" />
+      <Zip Code="34740" />
+      <Zip Code="34742" />
+      <Zip Code="34744" />
+    </District>
+    <District Name="Kağıthane">
+      <Zip Code="34400" />
+      <Zip Code="34403" />
+      <Zip Code="34406" />
+      <Zip Code="34408" />
+      <Zip Code="34410" />
+      <Zip Code="34413" />
+      <Zip Code="34415" />
+      <Zip Code="34418" />
+    </District>
+    <District Name="Kartal">
+      <Zip Code="34860" />
+      <Zip Code="34862" />
+      <Zip Code="34865" />
+      <Zip Code="34870" />
+      <Zip Code="34873" />
+      <Zip Code="34876" />
+      <Zip Code="34880" />
+      <Zip Code="34882" />
+    </District>
+    <District Name="Küçükçekmece">
+      <Zip Code="34290" />
+      <Zip Code="34295" />
+      <Zip Code="34303" />
+      <Zip Code="34307" />
+    </District>
+    <District Name="Maltepe">
+      <Zip Code="34840" />
+      <Zip Code="34841" />
+      <Zip Code="34843" />
+      <Zip Code="34844" />
+      <Zip Code="34846" />
+      <Zip Code="34848" />
+      <Zip Code="34852" />
+      <Zip Code="34854" />
+      <Zip Code="34858" />
+    </District>
+    <District Name="Pendik">
+      <Zip Code="34890" />
+      <Zip Code="34893" />
+      <Zip Code="34896" />
+      <Zip Code="34899" />
+      <Zip Code="34903" />
+      <Zip Code="34906" />
+      <Zip Code="34909" />
+      <Zip Code="34912" />
+      <Zip Code="34916" />
+    </District>
+    <District Name="Sancaktepe">
+      <Zip Code="34785" />
+      <Zip Code="34791" />
+      <Zip Code="34885" />
+      <Zip Code="34887" />
+    </District>
+    <District Name="Sarıyer">
+      <Zip Code="34450" />
+      <Zip Code="34453" />
+      <Zip Code="34457" />
+      <Zip Code="34460" />
+      <Zip Code="34464" />
+      <Zip Code="34467" />
+      <Zip Code="34470" />
+      <Zip Code="34473" />
+    </District>
+    <District Name="Silivri">
+      <Zip Code="34570" />
+      <Zip Code="34580" />
+      <Zip Code="34582" />
+      <Zip Code="34590" />
+    </District>
+    <District Name="Sultanbeyli">
+      <Zip Code="34920" />
+      <Zip Code="34925" />
+      <Zip Code="34930" />
+      <Zip Code="34935" />
+    </District>
+    <District Name="Sultangazi">
+      <Zip Code="34260" />
+      <Zip Code="34265" />
+      <Zip Code="34270" />
+    </District>
+    <District Name="Şile">
+      <Zip Code="34980" />
+      <Zip Code="34990" />
+    </District>
+    <District Name="Şişli">
+      <Zip Code="34360" />
+      <Zip Code="34363" />
+      <Zip Code="34365" />
+      <Zip Code="34367" />
+      <Zip Code="34371" />
+      <Zip Code="34373" />
+      <Zip Code="34375" />
+      <Zip Code="34377" />
+      <Zip Code="34379" />
+      <Zip Code="34380" />
+      <Zip Code="34381" />
+      <Zip Code="34382" />
+      <Zip Code="34384" />
+      <Zip Code="34387" />
+      <Zip Code="34394" />
+      <Zip Code="34396" />
+      <Zip Code="34398" />
+    </District>
+    <District Name="Tuzla">
+      <Zip Code="34940" />
+      <Zip Code="34944" />
+      <Zip Code="34947" />
+      <Zip Code="34950" />
+      <Zip Code="34953" />
+      <Zip Code="34956" />
+      <Zip Code="34959" />
+    </District>
+    <District Name="Ümraniye">
+      <Zip Code="34760" />
+      <Zip Code="34762" />
+      <Zip Code="34764" />
+      <Zip Code="34766" />
+      <Zip Code="34768" />
+      <Zip Code="34771" />
+      <Zip Code="34773" />
+      <Zip Code="34774" />
+      <Zip Code="34775" />
+      <Zip Code="34776" />
+    </District>
+    <District Name="Üsküdar">
+      <Zip Code="34660" />
+      <Zip Code="34662" />
+      <Zip Code="34664" />
+      <Zip Code="34668" />
+      <Zip Code="34672" />
+      <Zip Code="34674" />
+      <Zip Code="34676" />
+      <Zip Code="34680" />
+      <Zip Code="34682" />
+      <Zip Code="34684" />
+      <Zip Code="34688" />
+      <Zip Code="34690" />
+      <Zip Code="34692" />
+      <Zip Code="34696" />
+      <Zip Code="34699" />
+      <Zip Code="34700" />
+    </District>
+    <District Name="Zeytinburnu">
+      <Zip Code="34010" />
+      <Zip Code="34015" />
+      <Zip Code="34020" />
+      <Zip Code="34025" />
+    </District>
+  </City>
+  <City Name="İzmir" Code="35">
+    <District Name="Aliağa">
+      <Zip Code="35800" />
+      <Zip Code="35810" />
+      <Zip Code="35820" />
+    </District>
+    <District Name="Balçova">
+      <Zip Code="35330" />
+    </District>
+    <District Name="Bayındır">
+      <Zip Code="35840" />
+      <Zip Code="35843" />
+      <Zip Code="35845" />
+      <Zip Code="35847" />
+    </District>
+    <District Name="Bayraklı">
+      <Zip Code="35510" />
+      <Zip Code="35520" />
+      <Zip Code="35530" />
+      <Zip Code="35535" />
+      <Zip Code="35540" />
+    </District>
+    <District Name="Bergama">
+      <Zip Code="35700" />
+      <Zip Code="35715" />
+      <Zip Code="35717" />
+      <Zip Code="35720" />
+      <Zip Code="35725" />
+      <Zip Code="35727" />
+      <Zip Code="35729" />
+    </District>
+    <District Name="Beydağ">
+      <Zip Code="35790" />
+    </District>
+    <District Name="Bornova">
+      <Zip Code="35030" />
+      <Zip Code="35040" />
+      <Zip Code="35050" />
+      <Zip Code="35060" />
+      <Zip Code="35070" />
+      <Zip Code="35080" />
+      <Zip Code="35090" />
+      <Zip Code="35100" />
+    </District>
+    <District Name="Buca">
+      <Zip Code="35370" />
+      <Zip Code="35380" />
+      <Zip Code="35390" />
+      <Zip Code="35395" />
+      <Zip Code="35400" />
+    </District>
+    <District Name="Çeşme">
+      <Zip Code="35930" />
+      <Zip Code="35937" />
+    </District>
+    <District Name="Çiğli">
+      <Zip Code="35610" />
+      <Zip Code="35620" />
+      <Zip Code="35630" />
+      <Zip Code="35640" />
+      <Zip Code="35650" />
+    </District>
+    <District Name="Dikili">
+      <Zip Code="35980" />
+      <Zip Code="35985" />
+    </District>
+    <District Name="Foça">
+      <Zip Code="35680" />
+      <Zip Code="35683" />
+      <Zip Code="35687" />
+    </District>
+    <District Name="Gaziemir">
+      <Zip Code="35410" />
+      <Zip Code="35415" />
+      <Zip Code="35425" />
+    </District>
+    <District Name="Güzelbahçe">
+      <Zip Code="35310" />
+    </District>
+    <District Name="Karabağlar">
+      <Zip Code="35110" />
+      <Zip Code="35120" />
+      <Zip Code="35130" />
+      <Zip Code="35140" />
+      <Zip Code="35150" />
+      <Zip Code="35160" />
+    </District>
+    <District Name="Karaburun">
+      <Zip Code="35960" />
+      <Zip Code="35970" />
+    </District>
+    <District Name="Karşıyaka">
+      <Zip Code="35550" />
+      <Zip Code="35560" />
+      <Zip Code="35570" />
+      <Zip Code="35575" />
+      <Zip Code="35580" />
+      <Zip Code="35590" />
+      <Zip Code="35600" />
+    </District>
+    <District Name="Kemalpaşa">
+      <Zip Code="35730" />
+      <Zip Code="35733" />
+      <Zip Code="35735" />
+      <Zip Code="35737" />
+      <Zip Code="35740" />
+      <Zip Code="35743" />
+    </District>
+    <District Name="Kınık">
+      <Zip Code="35990" />
+    </District>
+    <District Name="Kiraz">
+      <Zip Code="35890" />
+    </District>
+    <District Name="Konak">
+      <Zip Code="35170" />
+      <Zip Code="35180" />
+      <Zip Code="35190" />
+      <Zip Code="35210" />
+      <Zip Code="35220" />
+      <Zip Code="35230" />
+      <Zip Code="35240" />
+      <Zip Code="35250" />
+      <Zip Code="35260" />
+      <Zip Code="35270" />
+      <Zip Code="35280" />
+      <Zip Code="35290" />
+    </District>
+    <District Name="Menderes">
+      <Zip Code="35470" />
+      <Zip Code="35472" />
+      <Zip Code="35473" />
+      <Zip Code="35475" />
+      <Zip Code="35476" />
+      <Zip Code="35477" />
+      <Zip Code="35495" />
+    </District>
+    <District Name="Menemen">
+      <Zip Code="35660" />
+      <Zip Code="35663" />
+      <Zip Code="35665" />
+      <Zip Code="35667" />
+      <Zip Code="35670" />
+      <Zip Code="35672" />
+      <Zip Code="35674" />
+      <Zip Code="35676" />
+    </District>
+    <District Name="Narlıdere">
+      <Zip Code="35320" />
+    </District>
+    <District Name="Ödemiş">
+      <Zip Code="35750" />
+      <Zip Code="35753" />
+      <Zip Code="35755" />
+      <Zip Code="35761" />
+      <Zip Code="35762" />
+      <Zip Code="35763" />
+      <Zip Code="35765" />
+      <Zip Code="35767" />
+      <Zip Code="35773" />
+      <Zip Code="35780" />
+    </District>
+    <District Name="Seferihisar">
+      <Zip Code="35460" />
+      <Zip Code="35465" />
+      <Zip Code="35467" />
+    </District>
+    <District Name="Selçuk">
+      <Zip Code="35920" />
+      <Zip Code="35925" />
+    </District>
+    <District Name="Tire">
+      <Zip Code="35900" />
+      <Zip Code="35910" />
+    </District>
+    <District Name="Torbalı">
+      <Zip Code="35860" />
+      <Zip Code="35865" />
+      <Zip Code="35870" />
+      <Zip Code="35875" />
+      <Zip Code="35880" />
+      <Zip Code="35885" />
+    </District>
+    <District Name="Urla">
+      <Zip Code="35430" />
+    </District>
+  </City>
+  <City Name="Kahramanmaraş" Code="46">
+    <District Name="Afşin">
+      <Zip Code="46500" />
+      <Zip Code="46540" />
+      <Zip Code="46550" />
+      <Zip Code="46556" />
+      <Zip Code="46566" />
+      <Zip Code="46567" />
+      <Zip Code="46570" />
+      <Zip Code="46576" />
+      <Zip Code="46577" />
+      <Zip Code="46580" />
+    </District>
+    <District Name="Andırın">
+      <Zip Code="46400" />
+      <Zip Code="46410" />
+      <Zip Code="46420" />
+      <Zip Code="46430" />
+    </District>
+    <District Name="Çağlıyancerit">
+      <Zip Code="46720" />
+      <Zip Code="46770" />
+      <Zip Code="46780" />
+    </District>
+    <District Name="Ekinözü">
+      <Zip Code="46360" />
+    </District>
+    <District Name="Elbistan">
+      <Zip Code="46300" />
+      <Zip Code="46320" />
+      <Zip Code="46328" />
+      <Zip Code="46330" />
+      <Zip Code="46340" />
+      <Zip Code="46350" />
+      <Zip Code="46357" />
+      <Zip Code="46376" />
+      <Zip Code="46380" />
+      <Zip Code="46390" />
+    </District>
+    <District Name="Göksun">
+      <Zip Code="46600" />
+      <Zip Code="46610" />
+      <Zip Code="46620" />
+      <Zip Code="46630" />
+      <Zip Code="46640" />
+      <Zip Code="46650" />
+      <Zip Code="46660" />
+      <Zip Code="46670" />
+    </District>
+    <District Name="Kahramanmaraş">
+      <Zip Code="46000" />
+      <Zip Code="46030" />
+      <Zip Code="46040" />
+      <Zip Code="46050" />
+      <Zip Code="46060" />
+      <Zip Code="46100" />
+      <Zip Code="46110" />
+      <Zip Code="46120" />
+      <Zip Code="46130" />
+      <Zip Code="46140" />
+      <Zip Code="46145" />
+      <Zip Code="46150" />
+      <Zip Code="46160" />
+      <Zip Code="46170" />
+      <Zip Code="46180" />
+      <Zip Code="46185" />
+      <Zip Code="46190" />
+      <Zip Code="46200" />
+      <Zip Code="46216" />
+      <Zip Code="46266" />
+    </District>
+    <District Name="Nurhak">
+      <Zip Code="46370" />
+      <Zip Code="46371" />
+      <Zip Code="46372" />
+      <Zip Code="46373" />
+    </District>
+    <District Name="Pazarcık">
+      <Zip Code="46700" />
+      <Zip Code="46710" />
+      <Zip Code="46730" />
+      <Zip Code="46750" />
+      <Zip Code="46760" />
+    </District>
+    <District Name="Türkoğlu">
+      <Zip Code="46800" />
+      <Zip Code="46810" />
+      <Zip Code="46820" />
+      <Zip Code="46830" />
+      <Zip Code="46840" />
+    </District>
+  </City>
+  <City Name="Karabük" Code="78">
+    <District Name="Eflani">
+      <Zip Code="78300" />
+    </District>
+    <District Name="Eskipazar">
+      <Zip Code="78400" />
+    </District>
+    <District Name="Karabük">
+      <Zip Code="78000" />
+      <Zip Code="78020" />
+      <Zip Code="78050" />
+      <Zip Code="78100" />
+      <Zip Code="78200" />
+    </District>
+    <District Name="Ovacık">
+      <Zip Code="78500" />
+    </District>
+    <District Name="Safranbolu">
+      <Zip Code="78600" />
+      <Zip Code="78610" />
+      <Zip Code="78640" />
+    </District>
+    <District Name="Yenice">
+      <Zip Code="78700" />
+      <Zip Code="78720" />
+    </District>
+  </City>
+  <City Name="Karaman" Code="70">
+    <District Name="Ayrancı">
+      <Zip Code="70500" />
+    </District>
+    <District Name="Başyayla">
+      <Zip Code="70700" />
+    </District>
+    <District Name="Ermenek">
+      <Zip Code="70400" />
+      <Zip Code="70450" />
+      <Zip Code="70460" />
+    </District>
+    <District Name="Karaman">
+      <Zip Code="70000" />
+      <Zip Code="70100" />
+      <Zip Code="70110" />
+      <Zip Code="70120" />
+      <Zip Code="70130" />
+      <Zip Code="70140" />
+      <Zip Code="70150" />
+      <Zip Code="70160" />
+      <Zip Code="70170" />
+      <Zip Code="70200" />
+    </District>
+    <District Name="Kazımkarabekir">
+      <Zip Code="70600" />
+    </District>
+    <District Name="Sarıveliler">
+      <Zip Code="70800" />
+      <Zip Code="70810" />
+    </District>
+  </City>
+  <City Name="Kars" Code="36">
+    <District Name="Akyaka">
+      <Zip Code="36780" />
+    </District>
+    <District Name="Arpaçay">
+      <Zip Code="36730" />
+      <Zip Code="36740" />
+    </District>
+    <District Name="Digor">
+      <Zip Code="36670" />
+      <Zip Code="36680" />
+    </District>
+    <District Name="Kağızman">
+      <Zip Code="36700" />
+    </District>
+    <District Name="Kars">
+      <Zip Code="36000" />
+    </District>
+    <District Name="Sarıkamış">
+      <Zip Code="36500" />
+    </District>
+    <District Name="Selim">
+      <Zip Code="36900" />
+    </District>
+    <District Name="Susuz">
+      <Zip Code="36760" />
+    </District>
+  </City>
+  <City Name="Kastamonu" Code="37">
+    <District Name="Abana">
+      <Zip Code="37970" />
+    </District>
+    <District Name="Ağlı">
+      <Zip Code="37920" />
+    </District>
+    <District Name="Araç">
+      <Zip Code="37800" />
+      <Zip Code="37830" />
+      <Zip Code="37850" />
+    </District>
+    <District Name="Azdavay">
+      <Zip Code="37750" />
+    </District>
+    <District Name="Bozkurt">
+      <Zip Code="37680" />
+    </District>
+    <District Name="Cide">
+      <Zip Code="37600" />
+    </District>
+    <District Name="Çatalzeytin">
+      <Zip Code="37940" />
+    </District>
+    <District Name="Daday">
+      <Zip Code="37870" />
+    </District>
+    <District Name="Devrekani">
+      <Zip Code="37700" />
+    </District>
+    <District Name="Doğanyurt">
+      <Zip Code="37550" />
+    </District>
+    <District Name="Hanönü">
+      <Zip Code="37450" />
+    </District>
+    <District Name="İhsangazi">
+      <Zip Code="37250" />
+    </District>
+    <District Name="İnebolu">
+      <Zip Code="37500" />
+    </District>
+    <District Name="Kastamonu">
+      <Zip Code="37100" />
+      <Zip Code="37150" />
+      <Zip Code="37200" />
+      <Zip Code="37210" />
+    </District>
+    <District Name="Küre">
+      <Zip Code="37900" />
+    </District>
+    <District Name="Pınarbaşı">
+      <Zip Code="37770" />
+    </District>
+    <District Name="Seydiler">
+      <Zip Code="37270" />
+    </District>
+    <District Name="Şenpazar">
+      <Zip Code="37650" />
+    </District>
+    <District Name="Taşköprü">
+      <Zip Code="37400" />
+    </District>
+    <District Name="Tosya">
+      <Zip Code="37300" />
+      <Zip Code="37350" />
+    </District>
+  </City>
+  <City Name="Kayseri" Code="38">
+    <District Name="Akkışla">
+      <Zip Code="38830" />
+      <Zip Code="38835" />
+    </District>
+    <District Name="Bünyan">
+      <Zip Code="38600" />
+    </District>
+    <District Name="Develi">
+      <Zip Code="38400" />
+    </District>
+    <District Name="Felahiye">
+      <Zip Code="38750" />
+    </District>
+    <District Name="Hacılar">
+      <Zip Code="38210" />
+    </District>
+    <District Name="İncesu">
+      <Zip Code="38560" />
+      <Zip Code="38580" />
+    </District>
+    <District Name="Kocasinan">
+      <Zip Code="38010" />
+      <Zip Code="38020" />
+      <Zip Code="38080" />
+      <Zip Code="38090" />
+      <Zip Code="38100" />
+      <Zip Code="38110" />
+      <Zip Code="38125" />
+      <Zip Code="38290" />
+    </District>
+    <District Name="Melikgazi">
+      <Zip Code="38030" />
+      <Zip Code="38039" />
+      <Zip Code="38040" />
+      <Zip Code="38050" />
+      <Zip Code="38060" />
+      <Zip Code="38070" />
+      <Zip Code="38180" />
+      <Zip Code="38220" />
+      <Zip Code="38225" />
+      <Zip Code="38350" />
+    </District>
+    <District Name="Özvatan">
+      <Zip Code="38770" />
+    </District>
+    <District Name="Pınarbaşı">
+      <Zip Code="38700" />
+      <Zip Code="38730" />
+    </District>
+    <District Name="Sarıoğlan">
+      <Zip Code="38820" />
+      <Zip Code="38840" />
+      <Zip Code="38850" />
+      <Zip Code="38860" />
+    </District>
+    <District Name="Sarız">
+      <Zip Code="38660" />
+    </District>
+    <District Name="Talas">
+      <Zip Code="38160" />
+      <Zip Code="38280" />
+      <Zip Code="38310" />
+    </District>
+    <District Name="Tomarza">
+      <Zip Code="38900" />
+      <Zip Code="38940" />
+    </District>
+    <District Name="Yahyalı">
+      <Zip Code="38500" />
+    </District>
+    <District Name="Yeşilhisar">
+      <Zip Code="38800" />
+    </District>
+  </City>
+  <City Name="Kırıkkale" Code="71">
+    <District Name="Bahşili">
+      <Zip Code="71460" />
+    </District>
+    <District Name="Balışeyh">
+      <Zip Code="71520" />
+    </District>
+    <District Name="Çelebi">
+      <Zip Code="71810" />
+    </District>
+    <District Name="Delice">
+      <Zip Code="71670" />
+      <Zip Code="71700" />
+      <Zip Code="71720" />
+      <Zip Code="71730" />
+    </District>
+    <District Name="Karakeçili">
+      <Zip Code="71500" />
+    </District>
+    <District Name="Keskin">
+      <Zip Code="71800" />
+      <Zip Code="71820" />
+      <Zip Code="71850" />
+      <Zip Code="71860" />
+    </District>
+    <District Name="Kırıkkale">
+      <Zip Code="71000" />
+      <Zip Code="71100" />
+      <Zip Code="71200" />
+      <Zip Code="71300" />
+      <Zip Code="71400" />
+      <Zip Code="71470" />
+    </District>
+    <District Name="Sulakyurt">
+      <Zip Code="71900" />
+    </District>
+    <District Name="Yahşihan">
+      <Zip Code="71450" />
+      <Zip Code="71455" />
+    </District>
+  </City>
+  <City Name="Kırklareli" Code="39">
+    <District Name="Babaeski">
+      <Zip Code="39200" />
+      <Zip Code="39270" />
+      <Zip Code="39280" />
+      <Zip Code="39570" />
+      <Zip Code="39580" />
+    </District>
+    <District Name="Demirköy">
+      <Zip Code="39500" />
+      <Zip Code="39650" />
+    </District>
+    <District Name="Kırklareli">
+      <Zip Code="39020" />
+      <Zip Code="39050" />
+      <Zip Code="39070" />
+      <Zip Code="39100" />
+      <Zip Code="39160" />
+    </District>
+    <District Name="Kofçaz">
+      <Zip Code="39700" />
+    </District>
+    <District Name="Lüleburgaz">
+      <Zip Code="39750" />
+      <Zip Code="39770" />
+      <Zip Code="39780" />
+      <Zip Code="39790" />
+    </District>
+    <District Name="Pehlivanköy">
+      <Zip Code="39600" />
+      <Zip Code="39640" />
+    </District>
+    <District Name="Pınarhisar">
+      <Zip Code="39300" />
+      <Zip Code="39310" />
+      <Zip Code="39370" />
+    </District>
+    <District Name="Vize">
+      <Zip Code="39400" />
+      <Zip Code="39410" />
+      <Zip Code="39460" />
+      <Zip Code="39480" />
+    </District>
+  </City>
+  <City Name="Kırşehir" Code="40">
+    <District Name="Akçakent">
+      <Zip Code="40720" />
+    </District>
+    <District Name="Akpınar">
+      <Zip Code="40320" />
+    </District>
+    <District Name="Boztepe">
+      <Zip Code="40020" />
+      <Zip Code="40060" />
+    </District>
+    <District Name="Çiçekdağı">
+      <Zip Code="40700" />
+      <Zip Code="40730" />
+      <Zip Code="40740" />
+    </District>
+    <District Name="Kaman">
+      <Zip Code="40300" />
+      <Zip Code="40350" />
+      <Zip Code="40360" />
+      <Zip Code="40370" />
+      <Zip Code="40380" />
+      <Zip Code="40390" />
+      <Zip Code="40400" />
+      <Zip Code="40410" />
+      <Zip Code="40430" />
+      <Zip Code="40440" />
+    </District>
+    <District Name="Kırşehir">
+      <Zip Code="40000" />
+      <Zip Code="40030" />
+      <Zip Code="40070" />
+      <Zip Code="40080" />
+      <Zip Code="40100" />
+      <Zip Code="40110" />
+      <Zip Code="40120" />
+      <Zip Code="40200" />
+    </District>
+    <District Name="Mucur">
+      <Zip Code="40500" />
+    </District>
+  </City>
+  <City Name="Kilis" Code="79">
+    <District Name="Elbeyli">
+      <Zip Code="79500" />
+    </District>
+    <District Name="Kilis">
+      <Zip Code="79000" />
+    </District>
+    <District Name="Musabeyli">
+      <Zip Code="79600" />
+    </District>
+    <District Name="Polateli">
+      <Zip Code="79700" />
+    </District>
+  </City>
+  <City Name="Kocaeli" Code="41">
+    <District Name="Başiskele">
+      <Zip Code="41030" />
+      <Zip Code="41090" />
+      <Zip Code="41140" />
+      <Zip Code="41190" />
+      <Zip Code="41245" />
+      <Zip Code="41275" />
+    </District>
+    <District Name="Çayırova">
+      <Zip Code="41420" />
+    </District>
+    <District Name="Darıca">
+      <Zip Code="41700" />
+    </District>
+    <District Name="Derince">
+      <Zip Code="41900" />
+    </District>
+    <District Name="Dilovası">
+      <Zip Code="41455" />
+    </District>
+    <District Name="Gebze">
+      <Zip Code="41400" />
+    </District>
+    <District Name="Gölcük">
+      <Zip Code="41650" />
+      <Zip Code="41950" />
+    </District>
+    <District Name="İzmit">
+      <Zip Code="41000" />
+      <Zip Code="41040" />
+      <Zip Code="41050" />
+      <Zip Code="41060" />
+      <Zip Code="41100" />
+      <Zip Code="41200" />
+      <Zip Code="41300" />
+      <Zip Code="41310" />
+    </District>
+    <District Name="Kandıra">
+      <Zip Code="41600" />
+    </District>
+    <District Name="Karamürsel">
+      <Zip Code="41500" />
+    </District>
+    <District Name="Kartepe">
+      <Zip Code="41080" />
+      <Zip Code="41110" />
+      <Zip Code="41170" />
+      <Zip Code="41180" />
+      <Zip Code="41250" />
+      <Zip Code="41255" />
+      <Zip Code="41285" />
+      <Zip Code="41295" />
+      <Zip Code="41320" />
+    </District>
+    <District Name="Körfez">
+      <Zip Code="41780" />
+      <Zip Code="41800" />
+    </District>
+  </City>
+  <City Name="Konya" Code="42">
+    <District Name="Ahırlı">
+      <Zip Code="42180" />
+      <Zip Code="42185" />
+    </District>
+    <District Name="Akören">
+      <Zip Code="42460" />
+    </District>
+    <District Name="Akşehir">
+      <Zip Code="42550" />
+      <Zip Code="42560" />
+      <Zip Code="42580" />
+      <Zip Code="42581" />
+      <Zip Code="42582" />
+      <Zip Code="42583" />
+      <Zip Code="42584" />
+      <Zip Code="42585" />
+      <Zip Code="42586" />
+      <Zip Code="42587" />
+    </District>
+    <District Name="Altınekin">
+      <Zip Code="42450" />
+    </District>
+    <District Name="Beyşehir">
+      <Zip Code="42700" />
+      <Zip Code="42710" />
+      <Zip Code="42715" />
+      <Zip Code="42720" />
+      <Zip Code="42730" />
+      <Zip Code="42760" />
+      <Zip Code="42980" />
+    </District>
+    <District Name="Bozkır">
+      <Zip Code="42630" />
+      <Zip Code="42635" />
+      <Zip Code="42645" />
+      <Zip Code="42650" />
+      <Zip Code="42655" />
+      <Zip Code="42670" />
+    </District>
+    <District Name="Cihanbeyli">
+      <Zip Code="42850" />
+      <Zip Code="42855" />
+      <Zip Code="42860" />
+      <Zip Code="42865" />
+      <Zip Code="42870" />
+      <Zip Code="42875" />
+      <Zip Code="42880" />
+      <Zip Code="42885" />
+      <Zip Code="42890" />
+    </District>
+    <District Name="Çeltik">
+      <Zip Code="42920" />
+    </District>
+    <District Name="Çumra">
+      <Zip Code="42500" />
+      <Zip Code="42502" />
+      <Zip Code="42508" />
+      <Zip Code="42509" />
+      <Zip Code="42510" />
+      <Zip Code="42515" />
+      <Zip Code="42520" />
+    </District>
+    <District Name="Derbent">
+      <Zip Code="42900" />
+    </District>
+    <District Name="Derebucak">
+      <Zip Code="42480" />
+      <Zip Code="42482" />
+      <Zip Code="42484" />
+      <Zip Code="42485" />
+    </District>
+    <District Name="Doğanhisar">
+      <Zip Code="42930" />
+      <Zip Code="42936" />
+      <Zip Code="42940" />
+      <Zip Code="42950" />
+    </District>
+    <District Name="Emirgazi">
+      <Zip Code="42910" />
+      <Zip Code="42915" />
+    </District>
+    <District Name="Ereğli">
+      <Zip Code="42310" />
+      <Zip Code="42320" />
+      <Zip Code="42323" />
+      <Zip Code="42325" />
+      <Zip Code="42335" />
+      <Zip Code="42345" />
+      <Zip Code="42350" />
+      <Zip Code="42355" />
+    </District>
+    <District Name="Güneysınır">
+      <Zip Code="42190" />
+    </District>
+    <District Name="Hadim">
+      <Zip Code="42830" />
+      <Zip Code="42835" />
+      <Zip Code="42840" />
+      <Zip Code="42845" />
+    </District>
+    <District Name="Halkapınar">
+      <Zip Code="42280" />
+    </District>
+    <District Name="Hüyük">
+      <Zip Code="42690" />
+      <Zip Code="42696" />
+      <Zip Code="42698" />
+    </District>
+    <District Name="Ilgın">
+      <Zip Code="42600" />
+      <Zip Code="42603" />
+      <Zip Code="42605" />
+      <Zip Code="42610" />
+      <Zip Code="42613" />
+      <Zip Code="42615" />
+      <Zip Code="42620" />
+      <Zip Code="42625" />
+    </District>
+    <District Name="Kadınhanı">
+      <Zip Code="42800" />
+      <Zip Code="42810" />
+      <Zip Code="42815" />
+      <Zip Code="42825" />
+    </District>
+    <District Name="Karapınar">
+      <Zip Code="42400" />
+      <Zip Code="42415" />
+      <Zip Code="42420" />
+      <Zip Code="42425" />
+    </District>
+    <District Name="Karatay">
+      <Zip Code="42020" />
+      <Zip Code="42030" />
+      <Zip Code="42250" />
+      <Zip Code="42290" />
+    </District>
+    <District Name="Kulu">
+      <Zip Code="42770" />
+      <Zip Code="42773" />
+      <Zip Code="42774" />
+      <Zip Code="42775" />
+      <Zip Code="42777" />
+      <Zip Code="42780" />
+      <Zip Code="42790" />
+    </District>
+    <District Name="Meram">
+      <Zip Code="42000" />
+      <Zip Code="42010" />
+      <Zip Code="42040" />
+      <Zip Code="42090" />
+      <Zip Code="42140" />
+    </District>
+    <District Name="Sarayönü">
+      <Zip Code="42430" />
+      <Zip Code="42440" />
+    </District>
+    <District Name="Selçuklu">
+      <Zip Code="42060" />
+      <Zip Code="42070" />
+      <Zip Code="42080" />
+      <Zip Code="42100" />
+      <Zip Code="42110" />
+      <Zip Code="42208" />
+      <Zip Code="42250" />
+    </District>
+    <District Name="Seydişehir">
+      <Zip Code="42360" />
+      <Zip Code="42363" />
+      <Zip Code="42370" />
+      <Zip Code="42380" />
+      <Zip Code="42390" />
+    </District>
+    <District Name="Taşkent">
+      <Zip Code="42960" />
+      <Zip Code="42965" />
+      <Zip Code="42968" />
+    </District>
+    <District Name="Tuzlukçu">
+      <Zip Code="42970" />
+    </District>
+    <District Name="Yalıhüyük">
+      <Zip Code="42470" />
+    </District>
+    <District Name="Yunak">
+      <Zip Code="42530" />
+      <Zip Code="42533" />
+      <Zip Code="42534" />
+      <Zip Code="42535" />
+      <Zip Code="42536" />
+      <Zip Code="42537" />
+      <Zip Code="42538" />
+    </District>
+  </City>
+  <City Name="Kütahya" Code="43">
+    <District Name="Altıntaş">
+      <Zip Code="43800" />
+      <Zip Code="43810" />
+      <Zip Code="43836" />
+    </District>
+    <District Name="Aslanapa">
+      <Zip Code="43210" />
+    </District>
+    <District Name="Çavdarhisar">
+      <Zip Code="43710" />
+      <Zip Code="43730" />
+    </District>
+    <District Name="Domaniç">
+      <Zip Code="43850" />
+      <Zip Code="43860" />
+      <Zip Code="43890" />
+    </District>
+    <District Name="Dumlupınar">
+      <Zip Code="43820" />
+    </District>
+    <District Name="Emet">
+      <Zip Code="43700" />
+      <Zip Code="43750" />
+      <Zip Code="43760" />
+      <Zip Code="43764" />
+      <Zip Code="43766" />
+      <Zip Code="43773" />
+    </District>
+    <District Name="Gediz">
+      <Zip Code="43600" />
+      <Zip Code="43620" />
+      <Zip Code="43630" />
+      <Zip Code="43640" />
+      <Zip Code="43650" />
+      <Zip Code="43655" />
+      <Zip Code="43660" />
+      <Zip Code="43665" />
+      <Zip Code="43670" />
+      <Zip Code="43680" />
+      <Zip Code="43683" />
+      <Zip Code="43684" />
+      <Zip Code="43686" />
+      <Zip Code="43693" />
+      <Zip Code="43694" />
+    </District>
+    <District Name="Hisarcık">
+      <Zip Code="43780" />
+      <Zip Code="43785" />
+      <Zip Code="43790" />
+      <Zip Code="43793" />
+      <Zip Code="43796" />
+    </District>
+    <District Name="Kütahya">
+      <Zip Code="43020" />
+      <Zip Code="43030" />
+      <Zip Code="43040" />
+      <Zip Code="43050" />
+      <Zip Code="43100" />
+      <Zip Code="43260" />
+      <Zip Code="43270" />
+      <Zip Code="43290" />
+    </District>
+    <District Name="Pazarlar">
+      <Zip Code="43530" />
+    </District>
+    <District Name="Simav">
+      <Zip Code="43500" />
+      <Zip Code="43510" />
+      <Zip Code="43520" />
+      <Zip Code="43584" />
+      <Zip Code="43586" />
+      <Zip Code="43587" />
+      <Zip Code="43590" />
+      <Zip Code="43593" />
+      <Zip Code="43594" />
+    </District>
+    <District Name="Şaphane">
+      <Zip Code="43950" />
+      <Zip Code="43970" />
+    </District>
+    <District Name="Tavşanlı">
+      <Zip Code="43300" />
+      <Zip Code="43410" />
+      <Zip Code="43463" />
+      <Zip Code="43470" />
+      <Zip Code="43900" />
+    </District>
+  </City>
+  <City Name="Malatya" Code="44">
+    <District Name="Akçadağ">
+      <Zip Code="44600" />
+    </District>
+    <District Name="Arapkir">
+      <Zip Code="44800" />
+    </District>
+    <District Name="Arguvan">
+      <Zip Code="44960" />
+    </District>
+    <District Name="Battalgazi">
+      <Zip Code="44210" />
+    </District>
+    <District Name="Darende">
+      <Zip Code="44700" />
+      <Zip Code="44705" />
+      <Zip Code="44710" />
+      <Zip Code="44720" />
+      <Zip Code="44730" />
+      <Zip Code="44740" />
+      <Zip Code="44750" />
+    </District>
+    <District Name="Doğanşehir">
+      <Zip Code="44500" />
+      <Zip Code="44510" />
+      <Zip Code="44520" />
+      <Zip Code="44530" />
+      <Zip Code="44540" />
+    </District>
+    <District Name="Doğanyol">
+      <Zip Code="44880" />
+    </District>
+    <District Name="Hekimhan">
+      <Zip Code="44400" />
+      <Zip Code="44410" />
+      <Zip Code="44420" />
+      <Zip Code="44430" />
+    </District>
+    <District Name="Kale">
+      <Zip Code="44370" />
+    </District>
+    <District Name="Kuluncak">
+      <Zip Code="44760" />
+    </District>
+    <District Name="Malatya">
+      <Zip Code="44000" />
+      <Zip Code="44040" />
+      <Zip Code="44050" />
+      <Zip Code="44060" />
+      <Zip Code="44070" />
+      <Zip Code="44080" />
+      <Zip Code="44090" />
+      <Zip Code="44100" />
+      <Zip Code="44110" />
+      <Zip Code="44170" />
+      <Zip Code="44180" />
+      <Zip Code="44200" />
+      <Zip Code="44230" />
+      <Zip Code="44280" />
+      <Zip Code="44300" />
+      <Zip Code="44310" />
+      <Zip Code="44320" />
+    </District>
+    <District Name="Pütürge">
+      <Zip Code="44850" />
+    </District>
+    <District Name="Yazıhan">
+      <Zip Code="44350" />
+    </District>
+    <District Name="Yeşilyurt">
+      <Zip Code="44900" />
+      <Zip Code="44910" />
+      <Zip Code="44920" />
+    </District>
+  </City>
+  <City Name="Manisa" Code="45">
+    <District Name="Ahmetli">
+      <Zip Code="45450" />
+    </District>
+    <District Name="Akhisar">
+      <Zip Code="45200" />
+      <Zip Code="45215" />
+      <Zip Code="45230" />
+      <Zip Code="45240" />
+      <Zip Code="45250" />
+      <Zip Code="45260" />
+      <Zip Code="45280" />
+      <Zip Code="45560" />
+    </District>
+    <District Name="Alaşehir">
+      <Zip Code="45600" />
+      <Zip Code="45610" />
+      <Zip Code="45615" />
+      <Zip Code="45620" />
+      <Zip Code="45630" />
+      <Zip Code="45650" />
+      <Zip Code="45660" />
+    </District>
+    <District Name="Demirci">
+      <Zip Code="45900" />
+      <Zip Code="45940" />
+    </District>
+    <District Name="Gölmarmara">
+      <Zip Code="45580" />
+    </District>
+    <District Name="Gördes">
+      <Zip Code="45750" />
+      <Zip Code="45760" />
+      <Zip Code="45770" />
+    </District>
+    <District Name="Kırkağaç">
+      <Zip Code="45700" />
+      <Zip Code="45707" />
+      <Zip Code="45720" />
+      <Zip Code="45730" />
+      <Zip Code="45740" />
+    </District>
+    <District Name="Köprübaşı">
+      <Zip Code="45930" />
+    </District>
+    <District Name="Kula">
+      <Zip Code="45170" />
+      <Zip Code="45180" />
+    </District>
+    <District Name="Manisa">
+      <Zip Code="45000" />
+      <Zip Code="45010" />
+      <Zip Code="45020" />
+      <Zip Code="45030" />
+      <Zip Code="45040" />
+      <Zip Code="45060" />
+      <Zip Code="45070" />
+      <Zip Code="45072" />
+      <Zip Code="45080" />
+      <Zip Code="45090" />
+      <Zip Code="45140" />
+      <Zip Code="45150" />
+    </District>
+    <District Name="Salihli">
+      <Zip Code="45300" />
+      <Zip Code="45310" />
+      <Zip Code="45320" />
+      <Zip Code="45325" />
+      <Zip Code="45330" />
+      <Zip Code="45340" />
+      <Zip Code="45350" />
+      <Zip Code="45370" />
+    </District>
+    <District Name="Sarıgöl">
+      <Zip Code="45470" />
+    </District>
+    <District Name="Saruhanlı">
+      <Zip Code="45800" />
+      <Zip Code="45804" />
+      <Zip Code="45805" />
+      <Zip Code="45810" />
+      <Zip Code="45815" />
+      <Zip Code="45820" />
+      <Zip Code="45830" />
+      <Zip Code="45835" />
+      <Zip Code="45840" />
+      <Zip Code="45850" />
+      <Zip Code="45860" />
+      <Zip Code="45870" />
+      <Zip Code="45880" />
+      <Zip Code="45890" />
+    </District>
+    <District Name="Selendi">
+      <Zip Code="45970" />
+    </District>
+    <District Name="Soma">
+      <Zip Code="45500" />
+      <Zip Code="45510" />
+      <Zip Code="45530" />
+      <Zip Code="45540" />
+    </District>
+    <District Name="Turgutlu">
+      <Zip Code="45400" />
+      <Zip Code="45420" />
+    </District>
+  </City>
+  <City Name="Mardin" Code="47">
+    <District Name="Dargeçit">
+      <Zip Code="47750" />
+    </District>
+    <District Name="Derik">
+      <Zip Code="47800" />
+    </District>
+    <District Name="Kızıltepe">
+      <Zip Code="47400" />
+      <Zip Code="47420" />
+      <Zip Code="47440" />
+      <Zip Code="47460" />
+      <Zip Code="47465" />
+    </District>
+    <District Name="Mardin">
+      <Zip Code="47060" />
+      <Zip Code="47080" />
+      <Zip Code="47100" />
+      <Zip Code="47200" />
+    </District>
+    <District Name="Mazıdağı">
+      <Zip Code="47700" />
+    </District>
+    <District Name="Midyat">
+      <Zip Code="47500" />
+      <Zip Code="47510" />
+      <Zip Code="47520" />
+      <Zip Code="47530" />
+      <Zip Code="47535" />
+      <Zip Code="47545" />
+      <Zip Code="47547" />
+    </District>
+    <District Name="Nusaybin">
+      <Zip Code="47300" />
+      <Zip Code="47320" />
+    </District>
+    <District Name="Ömerli">
+      <Zip Code="47570" />
+    </District>
+    <District Name="Savur">
+      <Zip Code="47860" />
+      <Zip Code="47880" />
+    </District>
+    <District Name="Yeşilli">
+      <Zip Code="47650" />
+    </District>
+  </City>
+  <City Name="Mersin" Code="33">
+    <District Name="Akdeniz">
+      <Zip Code="33000" />
+      <Zip Code="33010" />
+      <Zip Code="33020" />
+      <Zip Code="33040" />
+      <Zip Code="33050" />
+      <Zip Code="33070" />
+      <Zip Code="33100" />
+      <Zip Code="33115" />
+    </District>
+    <District Name="Anamur">
+      <Zip Code="33630" />
+      <Zip Code="33640" />
+      <Zip Code="33645" />
+      <Zip Code="33650" />
+      <Zip Code="33660" />
+    </District>
+    <District Name="Aydıncık">
+      <Zip Code="33840" />
+    </District>
+    <District Name="Bozyazı">
+      <Zip Code="33830" />
+      <Zip Code="33835" />
+      <Zip Code="33836" />
+    </District>
+    <District Name="Çamlıyayla">
+      <Zip Code="33580" />
+      <Zip Code="33590" />
+    </District>
+    <District Name="Erdemli">
+      <Zip Code="33350" />
+      <Zip Code="33730" />
+      <Zip Code="33750" />
+      <Zip Code="33760" />
+      <Zip Code="33770" />
+      <Zip Code="33780" />
+      <Zip Code="33790" />
+      <Zip Code="33870" />
+      <Zip Code="33875" />
+      <Zip Code="33948" />
+    </District>
+    <District Name="Gülnar">
+      <Zip Code="33700" />
+      <Zip Code="33705" />
+      <Zip Code="33710" />
+      <Zip Code="33715" />
+      <Zip Code="33720" />
+    </District>
+    <District Name="Mezitli">
+      <Zip Code="33200" />
+      <Zip Code="33330" />
+      <Zip Code="33335" />
+      <Zip Code="33340" />
+    </District>
+    <District Name="Mut">
+      <Zip Code="33600" />
+    </District>
+    <District Name="Silifke">
+      <Zip Code="33900" />
+      <Zip Code="33920" />
+      <Zip Code="33940" />
+      <Zip Code="33950" />
+      <Zip Code="33960" />
+      <Zip Code="33980" />
+      <Zip Code="33990" />
+    </District>
+    <District Name="Tarsus">
+      <Zip Code="33400" />
+      <Zip Code="33410" />
+      <Zip Code="33420" />
+      <Zip Code="33430" />
+      <Zip Code="33440" />
+      <Zip Code="33450" />
+      <Zip Code="33460" />
+      <Zip Code="33470" />
+      <Zip Code="33480" />
+      <Zip Code="33500" />
+      <Zip Code="33530" />
+    </District>
+    <District Name="Toroslar">
+      <Zip Code="33080" />
+      <Zip Code="33090" />
+      <Zip Code="33220" />
+      <Zip Code="33230" />
+      <Zip Code="33240" />
+      <Zip Code="33250" />
+      <Zip Code="33285" />
+      <Zip Code="33315" />
+      <Zip Code="33325" />
+    </District>
+    <District Name="Yenişehir">
+      <Zip Code="33110" />
+      <Zip Code="33120" />
+      <Zip Code="33130" />
+      <Zip Code="33140" />
+      <Zip Code="33150" />
+      <Zip Code="33160" />
+    </District>
+  </City>
+  <City Name="Muğla" Code="48">
+    <District Name="Bodrum">
+      <Zip Code="48400" />
+      <Zip Code="48410" />
+      <Zip Code="48420" />
+      <Zip Code="48440" />
+      <Zip Code="48450" />
+      <Zip Code="48470" />
+      <Zip Code="48480" />
+      <Zip Code="48483" />
+      <Zip Code="48960" />
+      <Zip Code="48965" />
+      <Zip Code="48970" />
+      <Zip Code="48990" />
+    </District>
+    <District Name="Dalaman">
+      <Zip Code="48770" />
+    </District>
+    <District Name="Datça">
+      <Zip Code="48900" />
+    </District>
+    <District Name="Fethiye">
+      <Zip Code="48300" />
+      <Zip Code="48303" />
+      <Zip Code="48310" />
+      <Zip Code="48330" />
+      <Zip Code="48340" />
+      <Zip Code="48350" />
+      <Zip Code="48360" />
+      <Zip Code="48363" />
+      <Zip Code="48370" />
+      <Zip Code="48375" />
+      <Zip Code="48850" />
+      <Zip Code="48860" />
+      <Zip Code="48870" />
+    </District>
+    <District Name="Kavaklıdere">
+      <Zip Code="48533" />
+      <Zip Code="48570" />
+      <Zip Code="48580" />
+      <Zip Code="48585" />
+    </District>
+    <District Name="Köyceğiz">
+      <Zip Code="48800" />
+      <Zip Code="48803" />
+      <Zip Code="48804" />
+    </District>
+    <District Name="Marmaris">
+      <Zip Code="48700" />
+      <Zip Code="48704" />
+      <Zip Code="48706" />
+      <Zip Code="48710" />
+      <Zip Code="48720" />
+      <Zip Code="48740" />
+    </District>
+    <District Name="Milas">
+      <Zip Code="48200" />
+      <Zip Code="48210" />
+      <Zip Code="48220" />
+      <Zip Code="48230" />
+      <Zip Code="48277" />
+      <Zip Code="48670" />
+    </District>
+    <District Name="Muğla">
+      <Zip Code="48000" />
+      <Zip Code="48040" />
+      <Zip Code="48070" />
+      <Zip Code="48100" />
+      <Zip Code="48183" />
+    </District>
+    <District Name="Ortaca">
+      <Zip Code="48600" />
+      <Zip Code="48840" />
+    </District>
+    <District Name="Ula">
+      <Zip Code="48640" />
+      <Zip Code="48650" />
+      <Zip Code="48660" />
+    </District>
+    <District Name="Yatağan">
+      <Zip Code="48500" />
+      <Zip Code="48510" />
+      <Zip Code="48514" />
+      <Zip Code="48516" />
+      <Zip Code="48540" />
+      <Zip Code="48550" />
+    </District>
+  </City>
+  <City Name="Muş" Code="49">
+    <District Name="Bulanık">
+      <Zip Code="49500" />
+      <Zip Code="49510" />
+      <Zip Code="49530" />
+      <Zip Code="49540" />
+      <Zip Code="49550" />
+    </District>
+    <District Name="Hasköy">
+      <Zip Code="49700" />
+    </District>
+    <District Name="Korkut">
+      <Zip Code="49730" />
+      <Zip Code="49740" />
+    </District>
+    <District Name="Malazgirt">
+      <Zip Code="49400" />
+      <Zip Code="49420" />
+    </District>
+    <District Name="Muş">
+      <Zip Code="49090" />
+      <Zip Code="49100" />
+      <Zip Code="49120" />
+      <Zip Code="49150" />
+      <Zip Code="49160" />
+      <Zip Code="49200" />
+      <Zip Code="49240" />
+      <Zip Code="49250" />
+      <Zip Code="49300" />
+    </District>
+    <District Name="Varto">
+      <Zip Code="49600" />
+      <Zip Code="49610" />
+      <Zip Code="49620" />
+    </District>
+  </City>
+  <City Name="Nevşehir" Code="50">
+    <District Name="Acıgöl">
+      <Zip Code="50140" />
+      <Zip Code="50190" />
+      <Zip Code="50230" />
+      <Zip Code="50260" />
+    </District>
+    <District Name="Avanos">
+      <Zip Code="50500" />
+      <Zip Code="50510" />
+      <Zip Code="50520" />
+      <Zip Code="50530" />
+      <Zip Code="50840" />
+      <Zip Code="50850" />
+      <Zip Code="50860" />
+      <Zip Code="50870" />
+      <Zip Code="50880" />
+    </District>
+    <District Name="Derinkuyu">
+      <Zip Code="50700" />
+      <Zip Code="50706" />
+      <Zip Code="50720" />
+      <Zip Code="50760" />
+    </District>
+    <District Name="Gülşehir">
+      <Zip Code="50900" />
+      <Zip Code="50920" />
+      <Zip Code="50930" />
+      <Zip Code="50940" />
+      <Zip Code="50960" />
+      <Zip Code="50990" />
+    </District>
+    <District Name="Hacıbektaş">
+      <Zip Code="50800" />
+      <Zip Code="50810" />
+      <Zip Code="50830" />
+    </District>
+    <District Name="Kozaklı">
+      <Zip Code="50600" />
+      <Zip Code="50610" />
+      <Zip Code="50620" />
+      <Zip Code="50630" />
+      <Zip Code="50645" />
+    </District>
+    <District Name="Nevşehir">
+      <Zip Code="50000" />
+      <Zip Code="50040" />
+      <Zip Code="50100" />
+      <Zip Code="50130" />
+      <Zip Code="50160" />
+      <Zip Code="50170" />
+      <Zip Code="50180" />
+      <Zip Code="50200" />
+      <Zip Code="50210" />
+      <Zip Code="50220" />
+      <Zip Code="50240" />
+      <Zip Code="50300" />
+    </District>
+    <District Name="Ürgüp">
+      <Zip Code="50350" />
+      <Zip Code="50370" />
+      <Zip Code="50400" />
+      <Zip Code="50420" />
+      <Zip Code="50650" />
+    </District>
+  </City>
+  <City Name="Niğde" Code="51">
+    <District Name="Altunhisar">
+      <Zip Code="51600" />
+      <Zip Code="51602" />
+      <Zip Code="51603" />
+      <Zip Code="51604" />
+      <Zip Code="51610" />
+      <Zip Code="51620" />
+      <Zip Code="51630" />
+    </District>
+    <District Name="Bor">
+      <Zip Code="51700" />
+      <Zip Code="51710" />
+      <Zip Code="51720" />
+      <Zip Code="51730" />
+      <Zip Code="51740" />
+    </District>
+    <District Name="Çamardı">
+      <Zip Code="51660" />
+      <Zip Code="51670" />
+    </District>
+    <District Name="Çiftlik">
+      <Zip Code="51800" />
+      <Zip Code="51810" />
+      <Zip Code="51815" />
+      <Zip Code="51816" />
+      <Zip Code="51820" />
+    </District>
+    <District Name="Niğde">
+      <Zip Code="51000" />
+      <Zip Code="51010" />
+      <Zip Code="51030" />
+      <Zip Code="51040" />
+      <Zip Code="51050" />
+      <Zip Code="51070" />
+      <Zip Code="51080" />
+      <Zip Code="51085" />
+      <Zip Code="51100" />
+      <Zip Code="51110" />
+      <Zip Code="51120" />
+      <Zip Code="51200" />
+      <Zip Code="51280" />
+      <Zip Code="51290" />
+      <Zip Code="51310" />
+      <Zip Code="51320" />
+    </District>
+    <District Name="Ulukışla">
+      <Zip Code="51900" />
+      <Zip Code="51910" />
+      <Zip Code="51920" />
+    </District>
+  </City>
+  <City Name="Ordu" Code="52">
+    <District Name="Akkuş">
+      <Zip Code="52950" />
+      <Zip Code="52960" />
+    </District>
+    <District Name="Aybastı">
+      <Zip Code="52500" />
+    </District>
+    <District Name="Çamaş">
+      <Zip Code="52430" />
+    </District>
+    <District Name="Çatalpınar">
+      <Zip Code="52420" />
+    </District>
+    <District Name="Çaybaşı">
+      <Zip Code="52310" />
+      <Zip Code="52340" />
+    </District>
+    <District Name="Fatsa">
+      <Zip Code="52400" />
+      <Zip Code="52410" />
+      <Zip Code="52440" />
+      <Zip Code="52460" />
+      <Zip Code="52496" />
+    </District>
+    <District Name="Gölköy">
+      <Zip Code="52600" />
+    </District>
+    <District Name="Gülyalı">
+      <Zip Code="52010" />
+    </District>
+    <District Name="Gürgentepe">
+      <Zip Code="52610" />
+    </District>
+    <District Name="İkizce">
+      <Zip Code="52320" />
+    </District>
+    <District Name="Kabadüz">
+      <Zip Code="52020" />
+    </District>
+    <District Name="Kabataş">
+      <Zip Code="52510" />
+      <Zip Code="52520" />
+    </District>
+    <District Name="Korgan">
+      <Zip Code="52700" />
+      <Zip Code="52710" />
+    </District>
+    <District Name="Kumru">
+      <Zip Code="52800" />
+    </District>
+    <District Name="Mesudiye">
+      <Zip Code="52900" />
+      <Zip Code="52910" />
+      <Zip Code="52930" />
+    </District>
+    <District Name="Ordu">
+      <Zip Code="52000" />
+      <Zip Code="52100" />
+    </District>
+    <District Name="Perşembe">
+      <Zip Code="52750" />
+      <Zip Code="52760" />
+      <Zip Code="52770" />
+    </District>
+    <District Name="Ulubey">
+      <Zip Code="52850" />
+    </District>
+    <District Name="Ünye">
+      <Zip Code="52300" />
+      <Zip Code="52330" />
+      <Zip Code="52350" />
+    </District>
+  </City>
+  <City Name="Osmaniye" Code="80">
+    <District Name="Bahçe">
+      <Zip Code="80500" />
+    </District>
+    <District Name="Düziçi">
+      <Zip Code="80600" />
+      <Zip Code="80710" />
+      <Zip Code="80720" />
+      <Zip Code="80730" />
+      <Zip Code="80740" />
+    </District>
+    <District Name="Hasanbeyli">
+      <Zip Code="80850" />
+    </District>
+    <District Name="Kadirli">
+      <Zip Code="80750" />
+      <Zip Code="80760" />
+    </District>
+    <District Name="Osmaniye">
+      <Zip Code="80000" />
+      <Zip Code="80010" />
+      <Zip Code="80020" />
+      <Zip Code="80030" />
+      <Zip Code="80440" />
+      <Zip Code="80480" />
+    </District>
+    <District Name="Sumbas">
+      <Zip Code="80900" />
+      <Zip Code="80930" />
+      <Zip Code="80940" />
+    </District>
+    <District Name="Toprakkale">
+      <Zip Code="80950" />
+      <Zip Code="80990" />
+    </District>
+  </City>
+  <City Name="Rize" Code="53">
+    <District Name="Ardeşen">
+      <Zip Code="53400" />
+      <Zip Code="53480" />
+      <Zip Code="53490" />
+    </District>
+    <District Name="Çamlıhemşin">
+      <Zip Code="53750" />
+      <Zip Code="53780" />
+    </District>
+    <District Name="Çayeli">
+      <Zip Code="53200" />
+      <Zip Code="53210" />
+      <Zip Code="53220" />
+      <Zip Code="53260" />
+      <Zip Code="53270" />
+    </District>
+    <District Name="Derepazarı">
+      <Zip Code="53900" />
+      <Zip Code="53940" />
+    </District>
+    <District Name="Fındıklı">
+      <Zip Code="53700" />
+      <Zip Code="53740" />
+    </District>
+    <District Name="Güneysu">
+      <Zip Code="53350" />
+      <Zip Code="53390" />
+    </District>
+    <District Name="Hemşin">
+      <Zip Code="53550" />
+      <Zip Code="53560" />
+    </District>
+    <District Name="İkizdere">
+      <Zip Code="53650" />
+      <Zip Code="53670" />
+      <Zip Code="53690" />
+    </District>
+    <District Name="İyidere">
+      <Zip Code="53600" />
+      <Zip Code="53610" />
+      <Zip Code="53620" />
+    </District>
+    <District Name="Kalkandere">
+      <Zip Code="53500" />
+      <Zip Code="53520" />
+      <Zip Code="53540" />
+    </District>
+    <District Name="Pazar">
+      <Zip Code="53300" />
+      <Zip Code="53340" />
+    </District>
+    <District Name="Rize">
+      <Zip Code="53020" />
+      <Zip Code="53800" />
+      <Zip Code="53870" />
+      <Zip Code="53950" />
+    </District>
+  </City>
+  <City Name="Sakarya" Code="54">
+    <District Name="Adapazarı">
+      <Zip Code="54100" />
+      <Zip Code="54290" />
+    </District>
+    <District Name="Akyazı">
+      <Zip Code="54400" />
+      <Zip Code="54405" />
+      <Zip Code="54420" />
+    </District>
+    <District Name="Arifiye">
+      <Zip Code="05458" />
+      <Zip Code="54060" />
+      <Zip Code="54580" />
+    </District>
+    <District Name="Erenler">
+      <Zip Code="54200" />
+    </District>
+    <District Name="Ferizli">
+      <Zip Code="54110" />
+      <Zip Code="54150" />
+      <Zip Code="54210" />
+    </District>
+    <District Name="Geyve">
+      <Zip Code="54700" />
+      <Zip Code="54950" />
+    </District>
+    <District Name="Hendek">
+      <Zip Code="54300" />
+    </District>
+    <District Name="Karapürçek">
+      <Zip Code="54430" />
+    </District>
+    <District Name="Karasu">
+      <Zip Code="54500" />
+      <Zip Code="54540" />
+    </District>
+    <District Name="Kaynarca">
+      <Zip Code="54650" />
+      <Zip Code="54680" />
+    </District>
+    <District Name="Kocaali">
+      <Zip Code="54800" />
+    </District>
+    <District Name="Pamukova">
+      <Zip Code="54900" />
+    </District>
+    <District Name="Sapanca">
+      <Zip Code="54600" />
+    </District>
+    <District Name="Serdivan">
+      <Zip Code="54055" />
+      <Zip Code="54130" />
+    </District>
+    <District Name="Söğütlü">
+      <Zip Code="54160" />
+    </District>
+    <District Name="Taraklı">
+      <Zip Code="54750" />
+    </District>
+  </City>
+  <City Name="Samsun" Code="55">
+    <District Name="Alaçam">
+      <Zip Code="55800" />
+    </District>
+    <District Name="Asarcık">
+      <Zip Code="55860" />
+    </District>
+    <District Name="Atakum">
+      <Zip Code="55200" />
+      <Zip Code="55215" />
+      <Zip Code="55270" />
+    </District>
+    <District Name="Ayvacık">
+      <Zip Code="55550" />
+    </District>
+    <District Name="Bafra">
+      <Zip Code="55400" />
+      <Zip Code="55430" />
+      <Zip Code="55440" />
+    </District>
+    <District Name="Canik">
+      <Zip Code="55080" />
+      <Zip Code="55085" />
+    </District>
+    <District Name="Çarşamba">
+      <Zip Code="55500" />
+      <Zip Code="55505" />
+      <Zip Code="55506" />
+      <Zip Code="55507" />
+      <Zip Code="55510" />
+      <Zip Code="55515" />
+    </District>
+    <District Name="Havza">
+      <Zip Code="55700" />
+      <Zip Code="55702" />
+    </District>
+    <District Name="İlkadım">
+      <Zip Code="55000" />
+      <Zip Code="55020" />
+      <Zip Code="55030" />
+      <Zip Code="55040" />
+      <Zip Code="55050" />
+      <Zip Code="55060" />
+      <Zip Code="55070" />
+      <Zip Code="55090" />
+      <Zip Code="55100" />
+    </District>
+    <District Name="Kavak">
+      <Zip Code="55850" />
+    </District>
+    <District Name="Ladik">
+      <Zip Code="55760" />
+    </District>
+    <District Name="Ondokuzmayıs">
+      <Zip Code="55420" />
+      <Zip Code="55421" />
+      <Zip Code="55429" />
+    </District>
+    <District Name="Salıpazarı">
+      <Zip Code="55530" />
+    </District>
+    <District Name="Tekkeköy">
+      <Zip Code="55300" />
+      <Zip Code="55310" />
+      <Zip Code="55320" />
+      <Zip Code="55330" />
+      <Zip Code="55530" />
+    </District>
+    <District Name="Terme">
+      <Zip Code="55600" />
+    </District>
+    <District Name="Vezirköprü">
+      <Zip Code="55900" />
+    </District>
+    <District Name="Yakakent">
+      <Zip Code="55810" />
+    </District>
+  </City>
+  <City Name="Siirt" Code="56">
+    <District Name="Aydınlar">
+      <Zip Code="56870" />
+    </District>
+    <District Name="Baykan">
+      <Zip Code="56460" />
+      <Zip Code="56470" />
+    </District>
+    <District Name="Eruh">
+      <Zip Code="56800" />
+    </District>
+    <District Name="Kurtalan">
+      <Zip Code="56500" />
+      <Zip Code="56540" />
+    </District>
+    <District Name="Pervari">
+      <Zip Code="56700" />
+    </District>
+    <District Name="Siirt">
+      <Zip Code="56100" />
+      <Zip Code="56210" />
+      <Zip Code="56220" />
+    </District>
+    <District Name="Şirvan">
+      <Zip Code="56760" />
+    </District>
+  </City>
+  <City Name="Sinop" Code="57">
+    <District Name="Ayancık">
+      <Zip Code="57400" />
+    </District>
+    <District Name="Boyabat">
+      <Zip Code="57200" />
+    </District>
+    <District Name="Dikmen">
+      <Zip Code="57660" />
+    </District>
+    <District Name="Durağan">
+      <Zip Code="57700" />
+    </District>
+    <District Name="Erfelek">
+      <Zip Code="57800" />
+    </District>
+    <District Name="Gerze">
+      <Zip Code="57600" />
+    </District>
+    <District Name="Saraydüzü">
+      <Zip Code="57300" />
+    </District>
+    <District Name="Sinop">
+      <Zip Code="57000" />
+    </District>
+    <District Name="Türkeli">
+      <Zip Code="57900" />
+      <Zip Code="57910" />
+    </District>
+  </City>
+  <City Name="Sivas" Code="58">
+    <District Name="Akıncılar">
+      <Zip Code="58550" />
+    </District>
+    <District Name="Altınyayla">
+      <Zip Code="58470" />
+    </District>
+    <District Name="Divriği">
+      <Zip Code="58300" />
+    </District>
+    <District Name="Doğanşar">
+      <Zip Code="58780" />
+    </District>
+    <District Name="Gemerek">
+      <Zip Code="58580" />
+      <Zip Code="58840" />
+      <Zip Code="58860" />
+      <Zip Code="58880" />
+    </District>
+    <District Name="Gölova">
+      <Zip Code="58640" />
+    </District>
+    <District Name="Gürün">
+      <Zip Code="58800" />
+      <Zip Code="58820" />
+    </District>
+    <District Name="Hafik">
+      <Zip Code="58760" />
+    </District>
+    <District Name="İmranlı">
+      <Zip Code="58980" />
+    </District>
+    <District Name="Kangal">
+      <Zip Code="58900" />
+      <Zip Code="58910" />
+      <Zip Code="58920" />
+      <Zip Code="58940" />
+    </District>
+    <District Name="Koyulhisar">
+      <Zip Code="58660" />
+    </District>
+    <District Name="Sivas">
+      <Zip Code="58000" />
+      <Zip Code="58010" />
+      <Zip Code="58020" />
+      <Zip Code="58030" />
+      <Zip Code="58040" />
+      <Zip Code="58050" />
+      <Zip Code="58060" />
+      <Zip Code="58080" />
+      <Zip Code="58140" />
+    </District>
+    <District Name="Suşehri">
+      <Zip Code="58600" />
+    </District>
+    <District Name="Şarkışla">
+      <Zip Code="58400" />
+      <Zip Code="58420" />
+      <Zip Code="58430" />
+      <Zip Code="58450" />
+    </District>
+    <District Name="Ulaş">
+      <Zip Code="58380" />
+    </District>
+    <District Name="Yıldızeli">
+      <Zip Code="58500" />
+      <Zip Code="58520" />
+      <Zip Code="58525" />
+      <Zip Code="58530" />
+      <Zip Code="58540" />
+    </District>
+    <District Name="Zara">
+      <Zip Code="58700" />
+      <Zip Code="58730" />
+    </District>
+  </City>
+  <City Name="Şanlıurfa" Code="63">
+    <District Name="Akçakale">
+      <Zip Code="63500" />
+    </District>
+    <District Name="Birecik">
+      <Zip Code="63400" />
+      <Zip Code="63420" />
+    </District>
+    <District Name="Bozova">
+      <Zip Code="63850" />
+    </District>
+    <District Name="Ceylanpınar">
+      <Zip Code="63570" />
+    </District>
+    <District Name="Halfeti">
+      <Zip Code="63950" />
+      <Zip Code="63986" />
+      <Zip Code="63990" />
+    </District>
+    <District Name="Harran">
+      <Zip Code="63510" />
+    </District>
+    <District Name="Hilvan">
+      <Zip Code="63900" />
+    </District>
+    <District Name="Siverek">
+      <Zip Code="63600" />
+      <Zip Code="63614" />
+      <Zip Code="63615" />
+    </District>
+    <District Name="Suruç">
+      <Zip Code="63800" />
+      <Zip Code="63820" />
+    </District>
+    <District Name="Şanlıurfa">
+      <Zip Code="63000" />
+      <Zip Code="63040" />
+      <Zip Code="63050" />
+      <Zip Code="63100" />
+      <Zip Code="63200" />
+      <Zip Code="63250" />
+      <Zip Code="63300" />
+      <Zip Code="63310" />
+    </District>
+    <District Name="Viranşehir">
+      <Zip Code="63700" />
+    </District>
+  </City>
+  <City Name="Şırnak" Code="73">
+    <District Name="Beytüşşebap">
+      <Zip Code="73800" />
+    </District>
+    <District Name="Cizre">
+      <Zip Code="73200" />
+    </District>
+    <District Name="Güçlükonak">
+      <Zip Code="73700" />
+      <Zip Code="73710" />
+    </District>
+    <District Name="İdil">
+      <Zip Code="73300" />
+    </District>
+    <District Name="Silopi">
+      <Zip Code="73400" />
+      <Zip Code="73420" />
+    </District>
+    <District Name="Şırnak">
+      <Zip Code="73000" />
+    </District>
+    <District Name="Uludere">
+      <Zip Code="73600" />
+      <Zip Code="73620" />
+      <Zip Code="73660" />
+    </District>
+  </City>
+  <City Name="Tekirdağ" Code="59">
+    <District Name="Çerkezköy">
+      <Zip Code="59500" />
+      <Zip Code="59510" />
+      <Zip Code="59530" />
+    </District>
+    <District Name="Çorlu">
+      <Zip Code="59850" />
+      <Zip Code="59860" />
+      <Zip Code="59870" />
+      <Zip Code="59880" />
+    </District>
+    <District Name="Hayrabolu">
+      <Zip Code="59400" />
+      <Zip Code="59410" />
+    </District>
+    <District Name="Malkara">
+      <Zip Code="59300" />
+      <Zip Code="59310" />
+      <Zip Code="59315" />
+      <Zip Code="59320" />
+    </District>
+    <District Name="Marmaraereğlisi">
+      <Zip Code="59740" />
+      <Zip Code="59750" />
+      <Zip Code="59760" />
+    </District>
+    <District Name="Muratlı">
+      <Zip Code="59700" />
+    </District>
+    <District Name="Saray">
+      <Zip Code="59600" />
+      <Zip Code="59610" />
+    </District>
+    <District Name="Şarköy">
+      <Zip Code="59560" />
+      <Zip Code="59570" />
+      <Zip Code="59800" />
+    </District>
+    <District Name="Tekirdağ">
+      <Zip Code="59000" />
+      <Zip Code="59010" />
+      <Zip Code="59020" />
+      <Zip Code="59030" />
+      <Zip Code="59050" />
+      <Zip Code="59060" />
+      <Zip Code="59100" />
+      <Zip Code="59200" />
+    </District>
+  </City>
+  <City Name="Tokat" Code="60">
+    <District Name="Almus">
+      <Zip Code="60900" />
+      <Zip Code="60910" />
+      <Zip Code="60915" />
+      <Zip Code="60920" />
+      <Zip Code="60925" />
+      <Zip Code="60930" />
+      <Zip Code="60935" />
+      <Zip Code="60940" />
+      <Zip Code="60945" />
+      <Zip Code="60950" />
+      <Zip Code="60955" />
+    </District>
+    <District Name="Artova">
+      <Zip Code="60670" />
+      <Zip Code="60675" />
+    </District>
+    <District Name="Başçiftlik">
+      <Zip Code="60620" />
+      <Zip Code="60625" />
+    </District>
+    <District Name="Erbaa">
+      <Zip Code="60500" />
+      <Zip Code="60510" />
+      <Zip Code="60515" />
+      <Zip Code="60520" />
+      <Zip Code="60525" />
+      <Zip Code="60530" />
+      <Zip Code="60540" />
+    </District>
+    <District Name="Niksar">
+      <Zip Code="60600" />
+      <Zip Code="60615" />
+      <Zip Code="60630" />
+      <Zip Code="60635" />
+      <Zip Code="60640" />
+      <Zip Code="60645" />
+      <Zip Code="60650" />
+    </District>
+    <District Name="Pazar">
+      <Zip Code="60800" />
+      <Zip Code="60820" />
+      <Zip Code="60840" />
+    </District>
+    <District Name="Reşadiye">
+      <Zip Code="60700" />
+      <Zip Code="60710" />
+      <Zip Code="60715" />
+      <Zip Code="60720" />
+      <Zip Code="60725" />
+      <Zip Code="60730" />
+      <Zip Code="60735" />
+      <Zip Code="60740" />
+      <Zip Code="60745" />
+      <Zip Code="60750" />
+      <Zip Code="60755" />
+      <Zip Code="60760" />
+      <Zip Code="60765" />
+      <Zip Code="60770" />
+    </District>
+    <District Name="Sulusaray">
+      <Zip Code="60870" />
+      <Zip Code="60875" />
+    </District>
+    <District Name="Tokat">
+      <Zip Code="60030" />
+      <Zip Code="60100" />
+      <Zip Code="60200" />
+      <Zip Code="60210" />
+      <Zip Code="60215" />
+      <Zip Code="60220" />
+      <Zip Code="60225" />
+      <Zip Code="60230" />
+      <Zip Code="60235" />
+      <Zip Code="60240" />
+      <Zip Code="60245" />
+      <Zip Code="60250" />
+      <Zip Code="60255" />
+    </District>
+    <District Name="Turhal">
+      <Zip Code="60300" />
+      <Zip Code="60310" />
+      <Zip Code="60320" />
+      <Zip Code="60335" />
+      <Zip Code="60340" />
+      <Zip Code="60345" />
+      <Zip Code="60350" />
+    </District>
+    <District Name="Yeşilyurt">
+      <Zip Code="60860" />
+    </District>
+    <District Name="Zile">
+      <Zip Code="60400" />
+      <Zip Code="60401" />
+      <Zip Code="60405" />
+      <Zip Code="60410" />
+      <Zip Code="60425" />
+    </District>
+  </City>
+  <City Name="Trabzon" Code="61">
+    <District Name="Akçaabat">
+      <Zip Code="61170" />
+      <Zip Code="61230" />
+      <Zip Code="61300" />
+      <Zip Code="61310" />
+    </District>
+    <District Name="Araklı">
+      <Zip Code="61700" />
+      <Zip Code="61720" />
+    </District>
+    <District Name="Arsin">
+      <Zip Code="61900" />
+      <Zip Code="61910" />
+      <Zip Code="61915" />
+      <Zip Code="61930" />
+    </District>
+    <District Name="Beşikdüzü">
+      <Zip Code="61800" />
+      <Zip Code="61820" />
+      <Zip Code="61827" />
+    </District>
+    <District Name="Çarşıbaşı">
+      <Zip Code="61420" />
+    </District>
+    <District Name="Çaykara">
+      <Zip Code="61940" />
+      <Zip Code="61960" />
+    </District>
+    <District Name="Dernekpazarı">
+      <Zip Code="61950" />
+    </District>
+    <District Name="Düzköy">
+      <Zip Code="61380" />
+      <Zip Code="61390" />
+    </District>
+    <District Name="Hayrat">
+      <Zip Code="61450" />
+    </District>
+    <District Name="Köprübaşı">
+      <Zip Code="61630" />
+    </District>
+    <District Name="Maçka">
+      <Zip Code="61750" />
+      <Zip Code="61770" />
+    </District>
+    <District Name="Of">
+      <Zip Code="61560" />
+      <Zip Code="61570" />
+      <Zip Code="61580" />
+      <Zip Code="61585" />
+      <Zip Code="61830" />
+      <Zip Code="61850" />
+    </District>
+    <District Name="Sürmene">
+      <Zip Code="61530" />
+      <Zip Code="61600" />
+    </District>
+    <District Name="Şalpazarı">
+      <Zip Code="61670" />
+    </District>
+    <District Name="Tonya">
+      <Zip Code="61500" />
+      <Zip Code="61510" />
+    </District>
+    <District Name="Trabzon">
+      <Zip Code="61000" />
+      <Zip Code="61010" />
+      <Zip Code="61030" />
+      <Zip Code="61040" />
+      <Zip Code="61080" />
+      <Zip Code="61100" />
+      <Zip Code="61180" />
+      <Zip Code="61195" />
+      <Zip Code="61200" />
+      <Zip Code="61220" />
+    </District>
+    <District Name="Vakfıkebir">
+      <Zip Code="61400" />
+      <Zip Code="61410" />
+    </District>
+    <District Name="Yomra">
+      <Zip Code="61250" />
+      <Zip Code="61270" />
+      <Zip Code="61280" />
+      <Zip Code="61290" />
+    </District>
+  </City>
+  <City Name="Tunceli" Code="62">
+    <District Name="Çemişgezek">
+      <Zip Code="62600" />
+    </District>
+    <District Name="Hozat">
+      <Zip Code="62400" />
+    </District>
+    <District Name="Mazgirt">
+      <Zip Code="62800" />
+      <Zip Code="62810" />
+    </District>
+    <District Name="Nazımiye">
+      <Zip Code="62950" />
+    </District>
+    <District Name="Ovacık">
+      <Zip Code="62900" />
+    </District>
+    <District Name="Pertek">
+      <Zip Code="62500" />
+    </District>
+    <District Name="Pülümür">
+      <Zip Code="62700" />
+      <Zip Code="62710" />
+    </District>
+    <District Name="Tunceli">
+      <Zip Code="62000" />
+    </District>
+  </City>
+  <City Name="Uşak" Code="64">
+    <District Name="Banaz">
+      <Zip Code="64500" />
+      <Zip Code="64510" />
+      <Zip Code="64520" />
+    </District>
+    <District Name="Eşme">
+      <Zip Code="64600" />
+      <Zip Code="64610" />
+      <Zip Code="64620" />
+      <Zip Code="64630" />
+    </District>
+    <District Name="Karahallı">
+      <Zip Code="64700" />
+      <Zip Code="64720" />
+    </District>
+    <District Name="Sivaslı">
+      <Zip Code="64800" />
+      <Zip Code="64810" />
+      <Zip Code="64820" />
+      <Zip Code="64830" />
+      <Zip Code="64840" />
+      <Zip Code="64850" />
+    </District>
+    <District Name="Ulubey">
+      <Zip Code="64900" />
+      <Zip Code="64910" />
+      <Zip Code="64920" />
+      <Zip Code="64930" />
+      <Zip Code="64940" />
+    </District>
+    <District Name="Uşak">
+      <Zip Code="64000" />
+      <Zip Code="64100" />
+      <Zip Code="64200" />
+      <Zip Code="64300" />
+      <Zip Code="64400" />
+      <Zip Code="64420" />
+      <Zip Code="64440" />
+      <Zip Code="64460" />
+    </District>
+  </City>
+  <City Name="Van" Code="65">
+    <District Name="Bahçesaray">
+      <Zip Code="65710" />
+    </District>
+    <District Name="Başkale">
+      <Zip Code="65600" />
+    </District>
+    <District Name="Çaldıran">
+      <Zip Code="65970" />
+    </District>
+    <District Name="Çatak">
+      <Zip Code="65870" />
+    </District>
+    <District Name="Edremit">
+      <Zip Code="65170" />
+    </District>
+    <District Name="Erciş">
+      <Zip Code="65400" />
+      <Zip Code="65440" />
+      <Zip Code="65450" />
+    </District>
+    <District Name="Gevaş">
+      <Zip Code="65700" />
+    </District>
+    <District Name="Gürpınar">
+      <Zip Code="65900" />
+    </District>
+    <District Name="Muradiye">
+      <Zip Code="65500" />
+      <Zip Code="65510" />
+    </District>
+    <District Name="Özalp">
+      <Zip Code="65570" />
+      <Zip Code="65800" />
+      <Zip Code="65804" />
+    </District>
+    <District Name="Saray">
+      <Zip Code="65830" />
+    </District>
+    <District Name="Van">
+      <Zip Code="65000" />
+      <Zip Code="65030" />
+      <Zip Code="65040" />
+      <Zip Code="65100" />
+      <Zip Code="65210" />
+      <Zip Code="65220" />
+      <Zip Code="65300" />
+    </District>
+  </City>
+  <City Name="Yalova" Code="77">
+    <District Name="Altınova">
+      <Zip Code="77700" />
+      <Zip Code="77710" />
+      <Zip Code="77720" />
+      <Zip Code="77730" />
+      <Zip Code="77740" />
+    </District>
+    <District Name="Armutlu">
+      <Zip Code="77500" />
+    </District>
+    <District Name="Çınarcık">
+      <Zip Code="77300" />
+      <Zip Code="77310" />
+      <Zip Code="77320" />
+      <Zip Code="77330" />
+      <Zip Code="77340" />
+    </District>
+    <District Name="Çiftlikköy">
+      <Zip Code="77600" />
+    </District>
+    <District Name="Termal">
+      <Zip Code="77400" />
+    </District>
+    <District Name="Yalova">
+      <Zip Code="77100" />
+      <Zip Code="77200" />
+      <Zip Code="77210" />
+    </District>
+  </City>
+  <City Name="Yozgat" Code="66">
+    <District Name="Akdağmadeni">
+      <Zip Code="66300" />
+    </District>
+    <District Name="Aydıncık">
+      <Zip Code="66510" />
+      <Zip Code="66560" />
+    </District>
+    <District Name="Boğazlıyan">
+      <Zip Code="66400" />
+      <Zip Code="66475" />
+    </District>
+    <District Name="Çandır">
+      <Zip Code="66620" />
+    </District>
+    <District Name="Çayıralan">
+      <Zip Code="66600" />
+    </District>
+    <District Name="Çekerek">
+      <Zip Code="66500" />
+    </District>
+    <District Name="Kadışehri">
+      <Zip Code="66540" />
+    </District>
+    <District Name="Saraykent">
+      <Zip Code="66320" />
+    </District>
+    <District Name="Sarıkaya">
+      <Zip Code="66650" />
+    </District>
+    <District Name="Sorgun">
+      <Zip Code="66700" />
+      <Zip Code="66710" />
+      <Zip Code="66720" />
+      <Zip Code="66740" />
+      <Zip Code="66760" />
+      <Zip Code="66790" />
+      <Zip Code="66791" />
+      <Zip Code="66792" />
+    </District>
+    <District Name="Şefaatli">
+      <Zip Code="66800" />
+      <Zip Code="66830" />
+    </District>
+    <District Name="Yenifakılı">
+      <Zip Code="66470" />
+    </District>
+    <District Name="Yerköy">
+      <Zip Code="66900" />
+      <Zip Code="66920" />
+    </District>
+    <District Name="Yozgat">
+      <Zip Code="66100" />
+    </District>
+  </City>
+  <City Name="Zonguldak" Code="67">
+    <District Name="Alaplı">
+      <Zip Code="67850" />
+    </District>
+    <District Name="Çaycuma">
+      <Zip Code="67660" />
+      <Zip Code="67900" />
+      <Zip Code="67960" />
+      <Zip Code="67965" />
+      <Zip Code="67970" />
+      <Zip Code="67975" />
+    </District>
+    <District Name="Devrek">
+      <Zip Code="67800" />
+      <Zip Code="67815" />
+      <Zip Code="67825" />
+      <Zip Code="67830" />
+      <Zip Code="67840" />
+    </District>
+    <District Name="Gökçebey">
+      <Zip Code="67670" />
+      <Zip Code="67680" />
+      <Zip Code="67685" />
+    </District>
+    <District Name="Karadenizereğli">
+      <Zip Code="67300" />
+      <Zip Code="67310" />
+      <Zip Code="67320" />
+      <Zip Code="67380" />
+      <Zip Code="67390" />
+    </District>
+    <District Name="Zonguldak">
+      <Zip Code="67000" />
+      <Zip Code="67010" />
+      <Zip Code="67020" />
+      <Zip Code="67030" />
+      <Zip Code="67040" />
+      <Zip Code="67100" />
+      <Zip Code="67150" />
+      <Zip Code="67155" />
+      <Zip Code="67160" />
+      <Zip Code="67170" />
+      <Zip Code="67500" />
+      <Zip Code="67510" />
+      <Zip Code="67600" />
+      <Zip Code="67620" />
+      <Zip Code="67980" />
+    </District>
+  </City>
+</AddressInfo>

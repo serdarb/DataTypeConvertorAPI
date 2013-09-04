@@ -7,6 +7,7 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 using NUnit.Framework;
 
 namespace DataTypeConvertorAPI.Test
@@ -47,6 +48,39 @@ namespace DataTypeConvertorAPI.Test
     public class DataTypeConvertorHelper
     {
         public bool Process(string path, string exportPath, string filter)
+        {
+            if (string.IsNullOrEmpty(path) ||
+                string.IsNullOrEmpty(exportPath))
+            {
+                return false;
+            }
+
+            if (!File.Exists(path))
+            {
+                return false;
+            }
+
+            var addressInfo = FillAddressInfoFromCSV(path);
+
+            return GenerateXMLFromAddressInfo(addressInfo, exportPath);
+        }
+
+        private bool GenerateXMLFromAddressInfo(AddressInfo addressInfo, string exportPath)
+        {
+            try
+            {
+                var xmlContent = SerializationHelper.Serialize(addressInfo);
+                File.WriteAllText(exportPath, xmlContent);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                //todo: log
+                return false;
+            }
+        }
+
+        private static AddressInfo FillAddressInfoFromCSV(string path)
         {
             var content = File.ReadAllLines(path).ToList().OrderBy(line => line).ToArray();
             var length = content.Length;
@@ -89,49 +123,57 @@ namespace DataTypeConvertorAPI.Test
                 }
             }
 
-
-
-
-            return false;
+            return addressInfo;
         }
     }
 
 
-    class AddressInfo
+    [Serializable]
+    public class AddressInfo
     {
         public AddressInfo()
         {
             City = new List<AddressInfoCity>();
         }
 
+        [XmlElement]
         public List<AddressInfoCity> City { get; set; }
     }
 
-    class AddressInfoCity
+    [Serializable]
+    public class AddressInfoCity
     {
         public AddressInfoCity()
         {
             District = new List<AddressInfoCityDistrict>();
         }
 
+        [XmlAttributeAttribute]
         public string Name { get; set; }
+        [XmlAttributeAttribute]
         public string Code { get; set; }
+        [XmlElement]
         public List<AddressInfoCityDistrict> District { get; set; }
     }
 
-    class AddressInfoCityDistrict
+    [Serializable]
+    public class AddressInfoCityDistrict
     {
         public AddressInfoCityDistrict()
         {
             Zip = new List<AddressInfoCityDistrictZip>();
         }
 
+        [XmlAttributeAttribute]
         public string Name { get; set; }
+        [XmlElement]
         public List<AddressInfoCityDistrictZip> Zip { get; set; }
     }
 
-    class AddressInfoCityDistrictZip
+    [Serializable]
+    public class AddressInfoCityDistrictZip
     {
+        [XmlAttributeAttribute]
         public string Code { get; set; }
     }
 }
