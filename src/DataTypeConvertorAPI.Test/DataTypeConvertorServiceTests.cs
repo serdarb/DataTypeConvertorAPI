@@ -1,13 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Configuration;
+using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Reflection;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Serialization;
 using NUnit.Framework;
 
 namespace DataTypeConvertorAPI.Test
@@ -25,11 +20,21 @@ namespace DataTypeConvertorAPI.Test
     public class DataTypeConvertorHelperTests
     {
         private string TestFilesPath;
+        private string CsvPath;
+        private string ExportXmlPath;
 
         [SetUp]
         public void Setup()
         {
             TestFilesPath = ConfigurationManager.AppSettings["TestFiles"];
+
+            CsvPath = string.Format("{0}\\sample_data.csv", TestFilesPath);
+            ExportXmlPath = string.Format("{0}\\sample_data_export.xml", TestFilesPath);
+
+            if (File.Exists(ExportXmlPath))
+            {
+                File.Delete(ExportXmlPath);
+            }
         }
 
         [Test]
@@ -37,11 +42,32 @@ namespace DataTypeConvertorAPI.Test
         {
             var helper = new DataTypeConvertorHelper();
 
-            var filter = "Antalya";
             var path = string.Format("{0}\\sample_data.csv", TestFilesPath);
             var exportpath = string.Format("{0}\\sample_data_export.xml", TestFilesPath);
 
-            Assert.IsTrue(helper.Process(path, exportpath, filter));
+            Assert.IsTrue(helper.Process(path, exportpath, string.Empty));
+            Assert.IsTrue(File.Exists(exportpath));
+        }
+
+        [Test]
+        public void should_generate_xml_from_csv_and_filter_city(
+            [Values("Ankara", "Antalya")] string cityFilter)
+        {
+            var helper = new DataTypeConvertorHelper();
+
+            if (File.Exists(ExportXmlPath))
+            {
+                File.Delete(ExportXmlPath);
+            }
+
+            Assert.IsTrue(helper.Process(CsvPath, ExportXmlPath, cityFilter));
+            Assert.IsTrue(File.Exists(ExportXmlPath));
+
+            var content = File.ReadAllText(ExportXmlPath);
+            Assert.IsTrue(content.Contains(cityFilter));
+
+            var anotherCityCode = ",34,";
+            Assert.IsFalse(content.Contains(anotherCityCode));
         }
     }
 
@@ -60,7 +86,7 @@ namespace DataTypeConvertorAPI.Test
                 return false;
             }
 
-            var addressInfo = FillAddressInfoFromCSV(path);
+            var addressInfo = FillAddressInfoFromCSV(path, filter);
 
             return GenerateXMLFromAddressInfo(addressInfo, exportPath);
         }
@@ -80,7 +106,7 @@ namespace DataTypeConvertorAPI.Test
             }
         }
 
-        private static AddressInfo FillAddressInfoFromCSV(string path)
+        private static AddressInfo FillAddressInfoFromCSV(string path, string filter)
         {
             var content = File.ReadAllLines(path).ToList().OrderBy(line => line).ToArray();
             var length = content.Length;
@@ -93,6 +119,16 @@ namespace DataTypeConvertorAPI.Test
                 var cityCode = lineItems[1];
                 var districtName = lineItems[2];
                 var zipCode = lineItems[3];
+
+                if (!string.IsNullOrEmpty(filter))
+                {
+                    var loweredFilter = filter.ToLower(new CultureInfo("tr-TR"));
+                    var loweredCityName = cityName.ToLower(new CultureInfo("tr-TR"));
+                    if (loweredCityName != loweredFilter)
+                    {
+                        continue;
+                    }
+                }
 
                 if (addressInfo.City.Exists(x => x.Name == cityName))
                 {
@@ -125,55 +161,5 @@ namespace DataTypeConvertorAPI.Test
 
             return addressInfo;
         }
-    }
-
-
-    [Serializable]
-    public class AddressInfo
-    {
-        public AddressInfo()
-        {
-            City = new List<AddressInfoCity>();
-        }
-
-        [XmlElement]
-        public List<AddressInfoCity> City { get; set; }
-    }
-
-    [Serializable]
-    public class AddressInfoCity
-    {
-        public AddressInfoCity()
-        {
-            District = new List<AddressInfoCityDistrict>();
-        }
-
-        [XmlAttributeAttribute]
-        public string Name { get; set; }
-        [XmlAttributeAttribute]
-        public string Code { get; set; }
-        [XmlElement]
-        public List<AddressInfoCityDistrict> District { get; set; }
-    }
-
-    [Serializable]
-    public class AddressInfoCityDistrict
-    {
-        public AddressInfoCityDistrict()
-        {
-            Zip = new List<AddressInfoCityDistrictZip>();
-        }
-
-        [XmlAttributeAttribute]
-        public string Name { get; set; }
-        [XmlElement]
-        public List<AddressInfoCityDistrictZip> Zip { get; set; }
-    }
-
-    [Serializable]
-    public class AddressInfoCityDistrictZip
-    {
-        [XmlAttributeAttribute]
-        public string Code { get; set; }
     }
 }
