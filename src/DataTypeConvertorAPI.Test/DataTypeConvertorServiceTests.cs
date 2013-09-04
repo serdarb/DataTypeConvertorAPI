@@ -1,5 +1,6 @@
 ﻿using System.Configuration;
 using System.IO;
+using Moq;
 using NUnit.Framework;
 
 namespace DataTypeConvertorAPI.Test
@@ -71,7 +72,7 @@ namespace DataTypeConvertorAPI.Test
         public void should_generate_csv_from_xml_and_filter_city(
             [Values("Antalya", "Ankara")] string cityFilter)
         {
-            Assert.IsTrue(helper.Process(XmlPath, ExportCsvPath,cityFilter));
+            Assert.IsTrue(helper.Process(XmlPath, ExportCsvPath, cityFilter));
             Assert.IsTrue(File.Exists(ExportCsvPath));
 
             var content = File.ReadAllText(ExportCsvPath);
@@ -85,16 +86,18 @@ namespace DataTypeConvertorAPI.Test
         public void should_generate_csv_from_xml_and_filter_city_and_sorted_by_zipcode(
             [Values("Antalya", "Ankara")] string cityFilter)
         {
-            Assert.IsTrue(helper.Process(XmlPath, ExportCsvPath, cityFilter));
+            const string sortField = "Zip";
+            const bool isAscending = false;
+
+            Assert.IsTrue(helper.Process(XmlPath, ExportCsvPath, cityFilter, sortField, isAscending));
             Assert.IsTrue(File.Exists(ExportCsvPath));
 
-            var content = File.ReadAllText(ExportCsvPath);
-            Assert.IsTrue(content.Contains(cityFilter));
-
-            var anotherCityCode = ",34,";
-            Assert.IsFalse(content.Contains(anotherCityCode));
-
             //sorting test
+
+          
+
+
+
         }
     }
 }
