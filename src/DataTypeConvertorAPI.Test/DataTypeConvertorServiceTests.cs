@@ -70,7 +70,7 @@ namespace DataTypeConvertorAPI.Test
 
         [Test]
         public void should_generate_csv_from_xml_and_filter_city(
-            [Values("Antalya", "Ankara")] string cityFilter)
+            [Values("Ankara")] string cityFilter)
         {
             Assert.IsTrue(helper.Process(XmlPath, ExportCsvPath, cityFilter));
             Assert.IsTrue(File.Exists(ExportCsvPath));
@@ -83,21 +83,19 @@ namespace DataTypeConvertorAPI.Test
         }
 
         [Test]
-        public void should_generate_csv_from_xml_and_filter_city_and_sorted_by_zipcode(
-            [Values("Antalya", "Ankara")] string cityFilter)
+        public void should_generate_csv_from_xml_and_filter_city_and_sorted_by_cityname(
+            [Values("Ankara")] string cityFilter)
         {
-            const string sortField = "Zip";
+            const string sortField = "CityName";
             const bool isAscending = false;
 
             Assert.IsTrue(helper.Process(XmlPath, ExportCsvPath, cityFilter, sortField, isAscending));
             Assert.IsTrue(File.Exists(ExportCsvPath));
 
-            //sorting test
+            var firstLine = "Ankara,06,Akyurt,06750";
 
-          
-
-
-
+            var content = File.ReadAllText(ExportCsvPath);
+            Assert.IsTrue(content.StartsWith(firstLine));
         }
     }
 }
